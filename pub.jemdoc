@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Publications
 
-\[[./listofpapers_ver20230321.pdf list of publications]\] (pdf file in Japanese)
+\[[./listofpapers_ver20240331.pdf list of publications]\] (pdf file in Japanese)
 
 
 == Books
@@ -31,8 +31,7 @@
 == Archival Journal Articles
 
 . N. Katayama and *Y. Susuki*, Koopman analysis of the singularly-perturbed van der Pol oscillator (in preparation).
-. *Y. Susuki*, I. Masaki, I. Mezic, and A. Ishigame, An RLC-circuit model of oscillatory thermal dynamics in a room: Formulation and estimation via Koopman mode decomposition (in preparation).
-. H. Hoshino, T. J. Koo, Y.-C. Chu, and *Y. Susuki*, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage (in preparation). 
+. H. Hoshino, T. J. Koo, Y.-C. Chu, and *Y. Susuki*, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage (under review). 
 \[pdf:[https://arxiv.org/abs/2305.07198 arXiv]\]
 . K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework (under review).
 . *Y. Susuki*, K. Eto, N. Hiramatsu, and A. Ishigame, Control of in-room temperature field via damping assignment to nonlinear Koopman mode, /IEEE Transactions on Control Systems Technology/, January 2024 (Early Access). \[pdf:[https://doi.org/10.1109/TCST.2023.3345149 IEEE]\]
@@ -128,7 +127,7 @@ This version of the paper slightly differs from the published version. Please se
 
 == Archival Journal Articles (in Japanese)
 
-. Y. Muto, C. Kojima, and *Y. Susuki* (under review).
+. Y. Muto, C. Kojima, and *Y. Susuki*, Switching predictive control of power distribution system including road heating, /Transactions of the Society of Instrument and Control Engineers/, vol.60, no.6, June 2024 (to appear).
 . T. Watanabe, Y. Wasa, *Y. Susuki*, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, /Transactions of the Society of Instrument and Control Engineers/, vol.59, no.9, pp.410-417, September 2023. \[pdf:[https://doi.org/10.9746/sicetr.59.410 J-STAGE]\]
 . S. Kimura, *Y. Susuki*, and A. Ishigame, Availability design of power supply for a building microgrid with in-vehicle battery, /IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Japanese edition)/, vol.J103-A, no.12, pp.306-320, December 2020. 
 \[pdf:[https://search.ieice.org/bin/summary.php?id=j103-a_12_306 J-STAGE],[http://hdl.handle.net/10466/00017197 OPU]\]
@@ -154,7 +153,8 @@ This version of the paper slightly differs from the published version. Please se
 
 == Refereed Conference Proceedings
 
-. *Y. Susuki*, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification (under review).
+. S. Mochiyama, R. Takahashi, *Y. Susuki*, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, /Annual Conference of the IEEE Industrial Electronics Society/ (IECON2024), Chicago, USA, November 3-6, 2024 (accepted).
+. *Y. Susuki*, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, /European Control Conference/, Stockholm, Sweden, June 2024 (to appear).
 . C. Kojima, Y. Muto, and *Y. Susuki*, Dissipativity of nonlinear ODE model of distribution voltage profile, /IFAC World Congress/ (IFAC WC23), pp.7031-7036, Yokohama, Japan, July 9-14, 2023. \[pdf:[https://doi.org/10.48550/arXiv.2212.10031 arXiv],[https:doi.org/10.1016/j.ifacol.2023.10.858 IFAC]\]
 . T. Watanabe, Y. Wasa, *Y. Susuki*, Y. Miwa, K. Hirata, and K. Tanaka, Economic optimization for dynamic cross-sector resilience design of energy and mobility via EVs: An emergency analysis, /IFAC World Congress/ (IFAC WC23), pp.736-741, Yokohama, Japan, July 9-14, 2023. \[pdf:[https:doi.org/10.1016/j.ifacol.2023.10.1645 IFAC]\]
 . M. Noguchi, *Y. Susuki*, and A. Ishigame, Time-series analysis of phase dynamics in a campus distribution grid using short-term Koopman mode decomposition, /2022 International Symposium on Nonlinear Theory and its Applications/ (NOLTA 2022), pp.112-115, virtual, December 12-15, 2022. \[pdf:[https://doi.org/10.34385/proc.71.A4L-B-02 IEICE]\]
