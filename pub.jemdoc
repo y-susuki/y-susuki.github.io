@@ -15,7 +15,7 @@
 
 == Book (in Japanese)
 
-. *Y. Susuki*, Koopman analysis of dynamical systems: Theory, Numerical Methods, and Applications (in preparation).
+. *Y. Susuki*, Koopman analysis of dynamical systems: Concepts, Numerics, and Applications (in preparation).
 
 
 == Book Chapters
@@ -30,10 +30,10 @@
 
 == Archival Journal Articles
 
-. N. Katayama and *Y. Susuki*, Koopman analysis of the singularly-perturbed van der Pol oscillator (submitted). \[arXiv\]
-. H. Hoshino, T. J. Koo, Y.-C. Chu, and *Y. Susuki*, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage (under review). 
+. N. Katayama and *Y. Susuki*, Koopman analysis of the singularly-perturbed van der Pol oscillator (under review). \[pdf:[https://doi.org/10.48550/arXiv.2405.07635 arXiv]\]
+. H. Hoshino, T. J. Koo, Y.-C. Chu, and *Y. Susuki*, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage (in revision). 
 \[pdf:[https://arxiv.org/abs/2305.07198 arXiv]\]
-. K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework (under review). \[arXiv\]
+. K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework (in revision). \[arXiv\]
 . *Y. Susuki*, K. Eto, N. Hiramatsu, and A. Ishigame, Control of in-room temperature field via damping assignment to nonlinear Koopman mode, /IEEE Transactions on Control Systems Technology/, January 2024 (Early Access). \[pdf:[https://doi.org/10.1109/TCST.2023.3345149 IEEE]\]
 . S. Yumiki, *Y. Susuki*, Y. Oshikubo, Y. Ota, R. Masegi, A. Kawashima, A. Ishigame, S. Inagaki, and T. Suzuki, Autonomous vehicle-to-grid design for provision of frequency control ancillary service and distribution voltage regulation, /Sustainable Energy, Grids and Networks/, vol.30, article no.100664, June 2022. 
 \[pdf:[https://arxiv.org/abs/2101.10518 arXiv],[https://doi.org/10.1016/j.segan.2022.100664 sciencedirect]\]
@@ -283,6 +283,7 @@ This version of the paper slightly differs from the published version. Please se
 
 == International Conference Presentations
 
+. *Y. Susuki*, Koopman analysis of singular systems, CMCC Conference on Koopman Operator Theory: Fundamentals, Approximations and Applications, Otranto, Italy, May 20-21, 2024 (invited).
 . N. Katayama and *Y. Susuki*, On properties of Koopman eigenfunctions for a planar singularly-perturbed dynamical system, /10th International Congress on Industrial and Applied Mathematics/ (ICIAM2023), Tokyo, Japan, August 20-25, 2023.
 . *Y. Susuki*, Koopman operator techniques applied to data analytics in transmission systems, in Panel Session "Application of Big Data and AI\/ML in Monitoring, Operations, Planning, and Protection," /IEEE Power \& Energy Society General Meeting/, Orland, USA, July 16-20, 2023 (invited). \[[./susuki_PESGM23_rev.pdf slides]\]
 . *Y. Susuki*, Koopman-model predictive control with signal temporal logic specifications: Formulation and case study, /SIAM Conference on Applications of Dynamical Systems/ (SIAM DS23), May 14-18, 2023 (invited).
