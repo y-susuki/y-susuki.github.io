@@ -31,9 +31,9 @@
 == Archival Journal Articles
 
 . K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework (under review). \[pdf:[https://doi.org/10.48550/arXiv.2409.10105 arXiv]\]
-. H. Hoshino, T. J. Koo, Y.-C. Chu, and *Y. Susuki*, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, /SICE Journal of Control, Measurement, and System Integration/ (accepted). 
-\[pdf:[https://arxiv.org/abs/2305.07198 arXiv]\]
-. N. Katayama and *Y. Susuki*, Koopman analysis of the singularly-perturbed van der Pol oscillator, /CHAOS: An Interdisciplinary Journal of Nonlinear Science/ (accepted) \[pdf:[https://doi.org/10.48550/arXiv.2405.07635 arXiv]\]
+. H. Hoshino, T. J. Koo, Y.-C. Chu, and *Y. Susuki*, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, /SICE Journal of Control, Measurement, and System Integration/, vol.17, no.1, pp.365-377, September 2024. 
+\[pdf:[https://arxiv.org/abs/2305.07198 arXiv],[https://doi.org/10.1080/18824889.2024.2402103 Taylor & Francis]\]
+. N. Katayama and *Y. Susuki*, Koopman analysis of the singularly perturbed van der Pol oscillator, /CHAOS: An Interdisciplinary Journal of Nonlinear Science/, vol.34, no.9, September 2024. \[pdf:[https://doi.org/10.48550/arXiv.2405.07635 arXiv],[https://doi.org/10.1063/5.0216779 AIP]\]
 . *Y. Susuki*, K. Eto, N. Hiramatsu, and A. Ishigame, Control of in-room temperature field via damping assignment to nonlinear Koopman mode, /IEEE Transactions on Control Systems Technology/, vol.32, no.5, pp.1569-1578, September 2024. \[pdf:[https://doi.org/10.1109/TCST.2023.3345149 IEEE]\]
 . S. Yumiki, *Y. Susuki*, Y. Oshikubo, Y. Ota, R. Masegi, A. Kawashima, A. Ishigame, S. Inagaki, and T. Suzuki, Autonomous vehicle-to-grid design for provision of frequency control ancillary service and distribution voltage regulation, /Sustainable Energy, Grids and Networks/, vol.30, article no.100664, June 2022. 
 \[pdf:[https://arxiv.org/abs/2101.10518 arXiv],[https://doi.org/10.1016/j.segan.2022.100664 sciencedirect]\]
@@ -162,11 +162,11 @@ This version of the paper slightly differs from the published version. Please se
 . R. Miyashita, *Y. Susuki*, and A. Ishigame, Koopman-model predictive control with signal temporal logic specifications for temperature regulation of a warm-water supply system, /SICE Annual Conference/ (SICE 2022), pp.1113-1118, Hybrid, September 6-9, 2022. 
 \[pdf:[https://arxiv.org/abs/2207.04184　arXiv],[https://doi.org/10.23919/SICE56594.2022.9905828  IEEE]\]
 . *Y. Susuki*, K. Eto, N. Hiramatsu, and A. Ishigame, Control of oscillatory temperature field in a building via damping assignment to nonlinear Koopman mode, /IEEE Conference on Control Technology and Applications/ (CCTA 2022), pp.796-804, Hybrid, August 22-25, 2022. 
-\[pdf:[https://arxiv.org/abs/2207.03219 arXiv],[https://doi.org/10.1109/CCTA49430.2022.9966014 IEEE]\] \[movie:[https://youtu.be/b40aOtlfb_A?si=F0rz84LiTx4sV0lH YouTube]\]
+\[pdf:[https://arxiv.org/abs/2207.03219 arXiv],[https://doi.org/10.1109/CCTA49430.2022.9966014 IEEE]\] \[[https://youtu.be/b40aOtlfb_A?si=F0rz84LiTx4sV0lH video]\]
 . *Y. Susuki*, T. Shimomura, Y. Ota, and A. Ishigame, Online Koopman mode decomposition for power system synchrophasor data, /IFAC Symposium on Control of Power and Energy Systems/ (CPES 2022), Online, June 21-23, 2022. 
 \[pdf:[https://doi.org/10.1016/j.ifacol.2022.07.010 IFAC]\]
 . *Y. Susuki*, On Koopman operator framework for semi-explicit differential-algebraic equations, /Third IFAC Conference on Modeling, Identification and Control of Nonlinear Systems/ (MICNON 2021), pp.361-365, Online, September 15-17, 2021. 
-\[pdf:[https://doi.org/10.1016/j.ifacol.2021.10.377 IFAC]\] \[movie:[https://youtu.be/qXH80FaRPyE?si=UWVXUBueTteSk9l9 YouTube]\]
+\[pdf:[https://doi.org/10.1016/j.ifacol.2021.10.377 IFAC]\] \[[https://youtu.be/qXH80FaRPyE?si=UWVXUBueTteSk9l9 video]\]
 . *Y. Susuki*, N. Kawamoto, Y. Ohashi, A. Ishigame, T. Funaki, and S. D’Arco, A modular approach to large-signal modeling of an interconnected AC\/MTDC system, /IEEE PES Innovative Smart Grid Technologies Europe/ (ISGT-Europe), pp.945-949, Online, October 26-28, 2020. 
 \[pdf:[https://doi.org/10.1109/ISGT-Europe47291.2020.9248890 IEEE]\]
 . S. Yumiki, *Y. Susuki*, R. Masegi, A. Kawashima, A. Ishigame, K. Inagaki, and T. Suzuki, Computing an upper bound for charging\/discharging patterns of in-vehicle batteries towards cooperative transportation-energy management, /IEEE Intelligent Transportation Systems Conference/ (ITSC 2019), pp.655-660, Auckland, New Zealand, October 27-30, 2019. 
@@ -190,7 +190,7 @@ This version of the paper slightly differs from the published version. Please se
 . *Y. Susuki*, R. Hamasaki, and A. Ishigame, Estimation of power system inertia using nonlinear Koopman modes, /IEEE Power & Energy Society General Meeting/ (PESGM 2018), Portland, Oregon, USA, August 5-10, 2018. 
 \[pdf:[https://arxiv.org/abs/1805.01967 arXiv],[https://doi.org/10.1109/PESGM.2018.8586007 IEEE]\] 
 (*Best Conference Papers on Power System Stability, Control, and Protection*)
-. *Y. Susuki*, F. Raak, H.G. Svendsen, and H.C. Bolstad, Assessing smoothing effects of wind power around Trondheim via Koopman mode decomposition, /15th Deep Sea Offshore Wind R&D Conference/ (EERA DeepWind’2018), Trondheim, Norway, January 17-19, 2018 [slides for presentation]; Journal of Physics: Conference Series, vol.1104, 012009, 2018. 
+. *Y. Susuki*, F. Raak, H.G. Svendsen, and H.C. Bolstad, Assessing smoothing effects of wind power around Trondheim via Koopman mode decomposition, /15th Deep Sea Offshore Wind R&D Conference/ (EERA DeepWind’2018), Trondheim, Norway, January 17-19, 2018; Journal of Physics: Conference Series, vol.1104, 012009, 2018. 
 \[pdf:[https://doi.org/10.1088/1742-6596/1104/1/012009 IoP]\]
 . S. Sugaya, *Y. Susuki*, A. Ishigame, A. Mammoli, and M. Martinez-Ramon, Modeling nonlinear dynamic system in RKHS through the Koopman operator, /2017 International Symposium on Nonlinear Theory and its Applications/ (NOLTA2017), pp.7-10, Cancun, Mexico, December 2017. 
 \[pdf:[https://www.ieice.org/nolta/symposium/archive/2017/articles/5146.pdf IEICE]\]
@@ -283,8 +283,11 @@ This version of the paper slightly differs from the published version. Please se
 
 == International Conference Presentations
 
-. *Y. Susuki*, Koopman operator techniques for power grid dynamic data, /8th Workshop on Dynamic Stability Challenges of the Future Power Grids/ (DynPOWER2024), Aarau, Switzerland, September 9, 2024 (invited). 
-. *Y. Susuki*, Koopman analysis of singular systems, /CMCC Conference on Koopman Operator Theory: Fundamentals, Approximations and Applications/, Otranto, Italy, May 20-21, 2024 (invited).
+. K. Matsumoto and *Y. Susuki*, Numerical analysis of instability in a power grid with multiple grid-forming inverters, /13th International Conference on Renewable Energy Research and Applications/ (ICRERA), Nagasaki, Japan, November 2024 (to appear).
+. *Y. Susuki*, Digital technologies for electrical energy systems and microgrid development, /UCSD\/KU-KSAC Joint Research Symposium "The Future of Clean Energy Technology"/, San Diego, CA, USA, October 16, 2024 (invited; to appear). 
+. Z. Zhang and *Y. Susuki*, Koopman analysis of weather dynamics using SCALE simulation data, /International Symposium on Weather Controllability/, Poster Session, Tokyo, Japan, October 6, 2024.
+. *Y. Susuki*, Koopman operator techniques for power grid dynamic data, /8th Workshop on Dynamic Stability Challenges of the Future Power Grids/ (DynPOWER2024), Aarau, Switzerland, September 9, 2024 (invited). \[[https://youtu.be/BUhU9-MdD4s?si=S1URL7a6Qvf9StWn video]\]\[[https://drive.google.com/file/d/1OS5HnPr5UawWkqHx_pZ6lphPPP76QI8T/view slides]\]
+. *Y. Susuki*, Koopman analysis of singular systems, /CMCC Conference on Koopman Operator Theory: Fundamentals, Approximations and Applications/, Otranto, Italy, May 20-21, 2024 (invited). \[[https://youtu.be/k07J6dg2Z6c?si=RkaiBp_4chT6e9MV video]\]
 . N. Katayama and *Y. Susuki*, On properties of Koopman eigenfunctions for a planar singularly-perturbed dynamical system, /10th International Congress on Industrial and Applied Mathematics/ (ICIAM2023), Tokyo, Japan, August 20-25, 2023.
 . *Y. Susuki*, Koopman operator techniques applied to data analytics in transmission systems, in Panel Session "Application of Big Data and AI\/ML in Monitoring, Operations, Planning, and Protection," /IEEE Power \& Energy Society General Meeting/, Orland, USA, July 16-20, 2023 (invited). \[[./susuki_PESGM23_rev.pdf slides]\]
 . *Y. Susuki*, Koopman-model predictive control with signal temporal logic specifications: Formulation and case study, /SIAM Conference on Applications of Dynamical Systems/ (SIAM DS23), May 14-18, 2023 (invited).
@@ -296,8 +299,8 @@ This version of the paper slightly differs from the published version. Please se
 . *Y. Susuki*, S, Yoshizawa, K. Sakai, and Y. Ota, Energy aspect and demonstration, in Pre-Conference Workshop on Sharing Systems for Energy and Mobility: Overview and Emergent Topics, /SICE Annual Conference/ (SICE2021), virtual, September 7, 2021.
 . M. Netto, *Y. Susuki*, V. Krishnan, and Y. Zhang, On analytical construction of observable functions in extended dynamic mode decomposition for nonlinear estimation and prediction, /American Control Conference/ (ACC2021), virtual, May 25-28, 2020.
 . M. Netto, *Y. Susuki*, V. Krishnan, and Y.-C. Zhang, On analytical construction of observable functions in extended dynamic mode decomposition for nonlinear estimation and prediction, /SIAM Conference on Applications of Dynamical Systems/ (SIAM DS21), virtual, May 23-27, 2021 (invited).
-. *Y. Susuki*, A. Mauroy, and I. Mezic, Koopman resolvent for nonlinear dynamical systems: Theory and computation, /SIAM Conference on Applications of Dynamical Systems/ (SIAM DS21), virtual, May 23-27, 2021 (invited). \[movie:[https://www.youtube.com/watch?v=25JN175yqaY&ab_channel=Mezi%C4%87ResearchGroup YouTube]\]
-. *Y. Susuki*, Koopman operator techniques in data-driven power systems technology, /IEEE Sustainable Power & Energy Conference/ (iSPERC2020), Chengdu, China (hybrid format with virtual), November 23-25, 2020 (invited).
+. *Y. Susuki*, A. Mauroy, and I. Mezic, Koopman resolvent for nonlinear dynamical systems: Theory and computation, /SIAM Conference on Applications of Dynamical Systems/ (SIAM DS21), virtual, May 23-27, 2021 (invited). \[[https://www.youtube.com/watch?v=25JN175yqaY&ab_channel=Mezi%C4%87ResearchGroup video]\]
+. *Y. Susuki*, Koopman operator techniques in data-driven power systems technology, /IEEE Sustainable Power & Energy Conference/ (iSPERC2020), Chengdu, China (hybrid format with virtual), November 23-25, 2020 (invited). \[[https://youtu.be/8EETuOPJPy0?si=0HfgLBKTch9KVisE video]\]
 . *Y. Susuki*, Design of cooperative management system for EV-sharing and electric-power distribution, /JST-NSF-RCN Workshop on Distributed Energy Management Systems/, Tokyo, Japan, June 20-21, 2019.
 . *Y. Susuki*, I. Mezic, and A. Mauroy, Expansion formula of the resolvents of Koopman operators: towards applications in analysis and synthesis of nonlinear dynamical systems, /SIAM Conference on Applications of Dynamical Systems/ (SIAM DS19), Snowbird, Utah, United States, May 19-23, 2019 (invited).
 . M. Netto, *Y. Susuki*, and L. Mili, Data-driven participation factors for nonlinear systems based on Koopman mode decomposition, /SIAM Conference on Applications of Dynamical Systems/ (SIAM DS19), Snowbird, Utah, United States, May 19-23, 2019 (invited).
