@@ -153,7 +153,7 @@ This version of the paper slightly differs from the published version. Please se
 
 == Refereed Conference Proceedings
 
-. N. Katayama and *Y. Susuki*, Koopman operators for global analysis of hybrid limit-cycling systems: Constructio and spectral properties (submitted). \[pdf:[https://doi.org/10.48550/arXiv.2411.04052 arXiv]\]
+. N. Katayama and *Y. Susuki*, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties (submitted). \[pdf:[https://doi.org/10.48550/arXiv.2411.04052 arXiv]\]
 . S. Mochiyama, R. Takahashi, *Y. Susuki*, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, /Annual Conference of the IEEE Industrial Electronics Society/ (IECON2024), Chicago, USA, November 3-6, 2024. \[pdf:[https://doi.org/10.48550/arXiv.2410.08556 arXiv]\]
 . *Y. Susuki*, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, /European Control Conference/, pp.627-632, Stockholm, Sweden, June 2024. \[pdf:[https://doi.org/10.23919/ECC64448.2024.10590877 IEEE]\]
 . C. Kojima, Y. Muto, and *Y. Susuki*, Dissipativity of nonlinear ODE model of distribution voltage profile, /IFAC World Congress/ (IFAC WC23), pp.7031-7036, Yokohama, Japan, July 9-14, 2023. \[pdf:[https://doi.org/10.48550/arXiv.2212.10031 arXiv],[https:doi.org/10.1016/j.ifacol.2023.10.858 IFAC]\]
@@ -284,6 +284,9 @@ This version of the paper slightly differs from the published version. Please se
 
 == International Conference Presentations
 
+. Z. Zhang, *Y. Susuki*, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems (submitted).
+. N. Katayama and *Y. Susuki*, Koopman analysis of the singularly perturbed van der Pol oscillator (submitted).
+. K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework (submitted).
 . K. Matsumoto and *Y. Susuki*, Numerical analysis of instability in a power grid with multiple grid-forming inverters, /13th International Conference on Renewable Energy Research and Applications/ (ICRERA), Nagasaki, Japan, November 2024.
 . *Y. Susuki*, Digital technologies for electrical energy systems and microgrid development, /2024 UC San Diego-Kyoto University \/ KSAC Joint Research Symposium "The Future of Clean Energy Technology"/, San Diego, CA, USA, October 16, 2024 (invited). 
 . Z. Zhang and *Y. Susuki*, Koopman analysis of weather dynamics using SCALE simulation data, /International Symposium on Weather Controllability/, Poster Session, Tokyo, Japan, October 6, 2024.
