@@ -30,7 +30,9 @@
 
 == Archival Journal Articles
 
-. K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework (under review). \[pdf:[https://doi.org/10.48550/arXiv.2409.10105 arXiv]\]
+. *Y. Susuki* et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation)
+. Z. Zhang, *Y. Susuki*, and A. Okazaki, Applied Koopman mode decomposition for SCALE weather simulation: Dominate modes extraction and model reduction (in preparation)
+. K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, /IEEE Transactions on Automatic Control/ (conditonally accepted). \[pdf:[https://doi.org/10.48550/arXiv.2409.10105 arXiv]\]
 . H. Hoshino, T. J. Koo, Y.-C. Chu, and *Y. Susuki*, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, /SICE Journal of Control, Measurement, and System Integration/, vol.17, no.1, pp.365-377, September 2024. 
 \[pdf:[https://arxiv.org/abs/2305.07198 arXiv],[https://doi.org/10.1080/18824889.2024.2402103 Taylor & Francis]\]
 . N. Katayama and *Y. Susuki*, Koopman analysis of the singularly perturbed van der Pol oscillator, /CHAOS: An Interdisciplinary Journal of Nonlinear Science/, vol.34, no.9, September 2024. \[pdf:[https://doi.org/10.48550/arXiv.2405.07635 arXiv],[https://doi.org/10.1063/5.0216779 AIP]\]
@@ -287,7 +289,7 @@ This version of the paper slightly differs from the published version. Please se
 . Z. Zhang, *Y. Susuki*, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems (submitted).
 . N. Katayama and *Y. Susuki*, Koopman analysis of the singularly perturbed van der Pol oscillator (submitted).
 . K. Takamichi, *Y. Susuki*, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework (submitted).
-. K. Matsumoto and *Y. Susuki*, Numerical analysis of instability in a power grid with multiple grid-forming inverters, /13th International Conference on Renewable Energy Research and Applications/ (ICRERA), Nagasaki, Japan, November 2024.
+. K. Matsumoto and *Y. Susuki*, Numerical analysis of instability in a power grid with multiple grid-forming inverters, /13th International Conference on Renewable Energy Research and Applications/ (ICRERA), Nagasaki, Japan, November 2024. \[pdf:[https://doi.org/10.1109/ICRERA62673.2024.10815176 IEEE]\]
 . *Y. Susuki*, Digital technologies for electrical energy systems and microgrid development, /2024 UC San Diego-Kyoto University \/ KSAC Joint Research Symposium "The Future of Clean Energy Technology"/, San Diego, CA, USA, October 16, 2024 (invited). 
 . Z. Zhang and *Y. Susuki*, Koopman analysis of weather dynamics using SCALE simulation data, /International Symposium on Weather Controllability/, Poster Session, Tokyo, Japan, October 6, 2024.
 . *Y. Susuki*, Koopman operator techniques for power grid dynamic data, /8th Workshop on Dynamic Stability Challenges of the Future Power Grids/ (DynPOWER2024), Aarau, Switzerland, September 9, 2024 (invited). \[[https://youtu.be/BUhU9-MdD4s?si=S1URL7a6Qvf9StWn video]\]\[[https://drive.google.com/file/d/1OS5HnPr5UawWkqHx_pZ6lphPPP76QI8T/view slides]\]
