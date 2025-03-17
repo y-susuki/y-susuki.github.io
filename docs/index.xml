@@ -4,7 +4,7 @@
         <link>http://localhost:1313/</link>
         <description>Susuki&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>susuki@ieee.org (Susuki)</managingEditor>
-            <webMaster>susuki@ieee.org (Susuki)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <webMaster>susuki@ieee.org (Susuki)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 17 Mar 2025 22:29:10 &#43;0900</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
