@@ -6,5 +6,14 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>susuki@ieee.org (Susuki)</managingEditor>
             <webMaster>susuki@ieee.org (Susuki)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 17 Mar 2025 22:29:10 &#43;0900</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Test</title>
+    <link>http://localhost:1313/test/</link>
+    <pubDate>Mon, 17 Mar 2025 22:36:53 &#43;0900</pubDate>
+    <author>Susuki</author>
+    <guid>http://localhost:1313/test/</guid>
+    <description><![CDATA[<p>i
+Hello, world!</p>]]></description>
+</item>
+</channel>
 </rss>
