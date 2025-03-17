@@ -1,17 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Susuki&#39;s Website</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>http://yo-susuki.github.io/posts/</link>
         <description>All Posts | Susuki&#39;s Website</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>susuki@ieee.org (Susuki)</managingEditor>
-            <webMaster>susuki@ieee.org (Susuki)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 17 Mar 2025 22:36:53 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Test</title>
-    <link>http://localhost:1313/test/</link>
+            <webMaster>susuki@ieee.org (Susuki)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 17 Mar 2025 22:36:53 &#43;0900</lastBuildDate><atom:link href="http://yo-susuki.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>test</title>
+    <link>http://yo-susuki.github.io/test/</link>
     <pubDate>Mon, 17 Mar 2025 22:36:53 &#43;0900</pubDate>
     <author>Susuki</author>
-    <guid>http://localhost:1313/test/</guid>
-    <description><![CDATA[<p>i
-Hello, world!</p>]]></description>
+    <guid>http://yo-susuki.github.io/test/</guid>
+    <description><![CDATA[<p>Hello, world!</p>]]></description>
 </item>
 </channel>
 </rss>
