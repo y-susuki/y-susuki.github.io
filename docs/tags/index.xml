@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Susuki&#39;s Website</title>
+        <link>http://yo-susuki.github.io/tags/</link>
+        <description>Tags - Tag - Susuki&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>susuki@ieee.org (Susuki)</managingEditor>
+            <webMaster>susuki@ieee.org (Susuki)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://yo-susuki.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
