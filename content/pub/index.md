@@ -39,232 +39,235 @@ title = 'Publication list'
 [arXiv](https://arxiv.org/abs/2101.10518), [sciencedirect](https://doi.org/10.1016/j.segan.2022.100664)
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Characterizing scale dependence of effective diffusion driven by fluid flows, *Physical Review E*, vol.105, article no.045103, April 2022. 
 [arXiv](https://arxiv.org/abs/2009.14104), [APS](https://doi.org/10.1103/PhysRevE.105.045103)
-
 1. K. Takamichi, **Y. Susuki**, M. Netto, and A. Ishigame, A mode-in-state contribution factor based on Koopman operator and its application to power system analysis, *Nonlinear Theory and Its Applications, IEICE*, vol.13, no.2, pp.409-414, April 2022. 
-\[pdf:[https://doi.org/10.1587/nolta.13.409 J-STAGE],[http://hdl.handle.net/10466/00017666 OPU],[http://arxiv.org/abs/2205.10984 arXiv]\]
+[J-STAGE](https://doi.org/10.1587/nolta.13.409), [OPU](http://hdl.handle.net/10466/00017666), [arXiv](http://arxiv.org/abs/2205.10984)
 1. H. Tadano, **Y. Susuki**, and A. Ishigame, Asymptotic assessment of distribution voltage profile using a nonlinear ODE model, *Nonlinear Theory and Its Applications, IEICE*, vol.13, no.1, pp.149-168, January 2022. 
-\[pdf:[https://doi.org/10.1587/nolta.13.149 J-STAGE],[https://arxiv.org/abs/2101.09945 arXiv]\]
-1. M. Netto, **Y. Susuki**, V. Krishnan, and Y. Zhang, On analytical construction of observable functions in extended dynamic mode decomposition for nonlinear estimation and prediction, /IEEE Control Systems Letters/, vol.5, no.6, pp.1868-1873, December 2021. 
-\[pdf:[https://arxiv.org/abs/2008.12874 arXiv],[https://doi.org/10.1109/LCSYS.2020.3047586 IEEE]\]
-1. **Y. Susuki**, A. Mauroy, and I. Mezic, Koopman resolvent: A Laplace-domain analysis of nonlinear autonomous dynamical systems, /SIAM Journal on Applied Dynamical Systems/, vol.20, no.4, pp.2013-2036, October 2021. 
-\[pdf:[https://arxiv.org/abs/2009.11544 arXiv],[https://doi.org/10.1137/20M1335935 SIAM]\]
+[J-STAGE](https://doi.org/10.1587/nolta.13.149), [arXiv](https://arxiv.org/abs/2101.09945)
+1. M. Netto, **Y. Susuki**, V. Krishnan, and Y. Zhang, On analytical construction of observable functions in extended dynamic mode decomposition for nonlinear estimation and prediction, *IEEE Control Systems Letters*, vol.5, no.6, pp.1868-1873, December 2021. 
+[arXiv](https://arxiv.org/abs/2008.12874), [IEEE](https://doi.org/10.1109/LCSYS.2020.3047586)
+1. **Y. Susuki**, A. Mauroy, and I. Mezic, Koopman resolvent: A Laplace-domain analysis of nonlinear autonomous dynamical systems, *SIAM Journal on Applied Dynamical Systems*, vol.20, no.4, pp.2013-2036, October 2021. 
+[arXiv](https://arxiv.org/abs/2009.11544), [SIAM](https://doi.org/10.1137/20M1335935)
 1. N. Kawamoto, **Y. Susuki**, S. D’Arco, A. Ishigame, D. Mende, and S.D. Stock, Load margin for short-term voltage stability of an interconnected AC\/MTDC system, *Nonlinear Theory and Its Applications, IEICE*, vol.12, no.4, pp.711-717, October 2021. 
-\[pdf:[https://doi.org/10.1587/nolta.12.711 J-STAGE]\]
+[J-STAGE](https://doi.org/10.1587/nolta.12.711)
 1. N. Kawamoto, **Y. Susuki**, and A. Ishigame, Estimation of stability region for an interconnected AC\/multi-terminal DC grid, *Nonlinear Theory and Its Applications, IEICE*, vol.11, no.4, pp.610-623, October 2020. 
-\[pdf:[https://doi.org/10.1587/nolta.11.610 J-STAGE]\]
-1. N. Hiramatsu, **Y. Susuki**, and A. Ishigame, Koopman mode decomposition of oscillatory temperature field inside a room, /Physical Review E/, vol.102, article no.022210, August 2020. 
-\[pdf:[https://arxiv.org/abs/2008.12149 arXiv],[https://doi.org/10.1103/PhysRevE.102.022210 APS],[http://hdl.handle.net/10466/00017032 OPU]\]
-1. **Y. Susuki** and I. Mezic, Invariant sets in quasiperiodically forced dynamical systems, /SIAM Journal on Applied Dynamical Systems/, vol.19, no.1, pp.329-351, January 2020. 
-\[pdf:[https://arxiv.org/abs/1808.08340 arXiv],[https://doi.org/10.1137/18M1193529 SIAM]\]
-1. N. Mizuta, S. Kamo, H. Toda, **Y. Susuki**, Y. Ota, and A. Ishigame, A hardware-in-the-loop test of multi-objective ancillary service by in-vehicle batteries: Primary frequency control and distribution voltage support, /IEEE Access/, vol.7, no.1, pp.161246-161254, November 2019. 
-\[pdf:[https://doi.org/10.1109/JSYST.2018.2883974 IEEE\]]
-1. F. Raak, **Y. Susuki**, S. Eguchi, and T. Hikihara, Role of deterministic electromechanical conversion for short-term fluctuations in wind power:  A case study in Japan, /Physical Review Applied/, vol.12, article no.034013, September 2019. 
-\[pdf:[https://doi.org/10.1103/PhysRevApplied.12.034013 APS]\]
-1. N. Mizuta, **Y. Susuki**, Y. Ota, and A. Ishigame, Synthesis of spatial charging\/discharging patterns of in-vehicle batteries for provision of ancillary service and mitigation of voltage impact, /IEEE Systems Journal/, vol.13, no.3, pp.3443-3453, September 2019. 
-\[pdf:[https://arxiv.org/abs/1811.07659 arXiv],[https://doi.org/10.1109/JSYST.2018.2883974 IEEE]\]
-1. H. Hoshino, **Y. Susuki**, T.J. Koo, and T. Hikihara, Structural analysis and control of a model of two-site electricity and heat supply, /ASME Journal of Dynamic Systems, Measurement and Control/, vol.141, no.10, article no.101004, June 2019. 
-\[pdf:[https://arxiv.org/abs/1809.03939 arXiv],[https://doi.org/10.1115/1.4043703 ASME]\]
-1. C. Kojima, **Y. Susuki**, and S. Hara, Dissipativity-based stability analysis of networked nonlinear descriptor systems and its application to power grids, /SICE Journal of Control, Measurement, and System Integration/, vol.12, no.1, pp.29-38, January 2019. 
-\[pdf:[https://doi.org/10.9746/jcmsi.12.29 Taylor]\]
-1. M. Netto, **Y. Susuki**, and L. Mili, Data-driven participation factors for nonlinear systems based on Koopman mode decomposition, /IEEE Control Systems Letters/, vol.3, issue 1, pp.198-203, January 2019. 
-\[pdf:[https://arxiv.org/abs/1806.01344 arXiv],[https://doi.org/10.1109/LCSYS.2018.2871887 IEEE]\]
+[J-STAGE](https://doi.org/10.1587/nolta.11.610)
+1. N. Hiramatsu, **Y. Susuki**, and A. Ishigame, Koopman mode decomposition of oscillatory temperature field inside a room, *Physical Review E*, vol.102, article no.022210, August 2020. 
+[arXiv](https://arxiv.org/abs/2008.12149), [APS](https://doi.org/10.1103/PhysRevE.102.022210), [OPU](http://hdl.handle.net/10466/00017032)
+1. **Y. Susuki** and I. Mezic, Invariant sets in quasiperiodically forced dynamical systems, *SIAM Journal on Applied Dynamical Systems*, vol.19, no.1, pp.329-351, January 2020. 
+[arXiv](https://arxiv.org/abs/1808.08340), [SIAM](https://doi.org/10.1137/18M1193529)
+1. N. Mizuta, S. Kamo, H. Toda, **Y. Susuki**, Y. Ota, and A. Ishigame, A hardware-in-the-loop test of multi-objective ancillary service by in-vehicle batteries: Primary frequency control and distribution voltage support, *IEEE Access*, vol.7, no.1, pp.161246-161254, November 2019. 
+[IEEE](https://doi.org/10.1109/JSYST.2018.2883974)
+1. F. Raak, **Y. Susuki**, S. Eguchi, and T. Hikihara, Role of deterministic electromechanical conversion for short-term fluctuations in wind power:  A case study in Japan, *Physical Review Applied*, vol.12, article no.034013, September 2019. 
+[APS](https://doi.org/10.1103/PhysRevApplied.12.034013)
+1. N. Mizuta, **Y. Susuki**, Y. Ota, and A. Ishigame, Synthesis of spatial charging\/discharging patterns of in-vehicle batteries for provision of ancillary service and mitigation of voltage impact, *IEEE Systems Journal*, vol.13, no.3, pp.3443-3453, September 2019. 
+[arXiv](https://arxiv.org/abs/1811.07659), [IEEE](https://doi.org/10.1109/JSYST.2018.2883974)
+1. H. Hoshino, **Y. Susuki**, T.J. Koo, and T. Hikihara, Structural analysis and control of a model of two-site electricity and heat supply, *ASME Journal of Dynamic Systems, Measurement and Control*, vol.141, no.10, article no.101004, June 2019. 
+[arXiv](https://arxiv.org/abs/1809.03939), [ASME](https://doi.org/10.1115/1.4043703)
+1. C. Kojima, **Y. Susuki**, and S. Hara, Dissipativity-based stability analysis of networked nonlinear descriptor systems and its application to power grids, *SICE Journal of Control, Measurement, and System Integration*, vol.12, no.1, pp.29-38, January 2019. 
+[Taylor & Francis](https://doi.org/10.9746/jcmsi.12.29)
+1. M. Netto, **Y. Susuki**, and L. Mili, Data-driven participation factors for nonlinear systems based on Koopman mode decomposition, *IEEE Control Systems Letters*, vol.3, issue 1, pp.198-203, January 2019. 
+[arXiv](https://arxiv.org/abs/1806.01344), [IEEE](https://doi.org/10.1109/LCSYS.2018.2871887)
 1. S. Kimura, **Y. Susuki**, and A. Ishigame, A reactive management system for reliable electricity supply in a building microgrid with vehicle-to-grid interaction, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E101-A, no.8, pp.1172-1184, August 2018. 
-\[pdf:[https://doi.org/10.1587/transfun.E101.A.1172 J-STAGE],[http://hdl.handle.net/10466/00016708 OPU]\]
-1. F. Raak, **Y. Susuki**, K. Tsuboki, M. Kato, S. Eguchi, and T. Hikihara, Assessment of offshore wind farm characteristics with the cloud resolving storm simulator:  A case study in Japan, /Wind Energy/, vol.21, issue 7, pp.531-543, July 2018. 
-\[pdf:[https://doi.org/10.1002/we.2176 Wiley]\]
-1. Q. Wu, T.J. Koo, and **Y. Susuki**, Dynamic security analysis of power systems by a sampling-based algorithm, /ACM Transactions on Cyber-Physical Systems/, vol.2, issue 2, article no.10, June 2018. 
-\[pdf:[https://arxiv.org/abs/1811.03301 arXiv],[https://doi.org/10.1145/3208093 ACM]\]
-1. Y. Kono, **Y. Susuki**, M. Hayashida, I. Mezic, and T. Hikihara, Multiscale modeling of in-room temperature distribution with human occupancy data: A practical case study, /Journal of Building Performance Simulation/, vol.11, no.2, pp.145-163, February 2018. 
-\[pdf:[http://hdl.handle.net/2433/235226 KU],[https://doi.org/10.1080/19401493.2017.1313314 Taylor]\]
+[J-STAGE](https://doi.org/10.1587/transfun.E101.A.1172), [OPU](http://hdl.handle.net/10466/00016708)
+1. F. Raak, **Y. Susuki**, K. Tsuboki, M. Kato, S. Eguchi, and T. Hikihara, Assessment of offshore wind farm characteristics with the cloud resolving storm simulator:  A case study in Japan, *Wind Energy*, vol.21, issue 7, pp.531-543, July 2018. 
+[Wiley](https://doi.org/10.1002/we.2176)
+1. Q. Wu, T.J. Koo, and **Y. Susuki**, Dynamic security analysis of power systems by a sampling-based algorithm, *ACM Transactions on Cyber-Physical Systems*, vol.2, issue 2, article no.10, June 2018. 
+[arXiv](https://arxiv.org/abs/1811.03301), [ACM](https://doi.org/10.1145/3208093)
+1. Y. Kono, **Y. Susuki**, M. Hayashida, I. Mezic, and T. Hikihara, Multiscale modeling of in-room temperature distribution with human occupancy data: A practical case study, *Journal of Building Performance Simulation*, vol.11, no.2, pp.145-163, February 2018. 
+[KU](http://hdl.handle.net/2433/235226), [Taylor & Francis](https://doi.org/10.1080/19401493.2017.1313314)
 1. F. Raak, **Y. Susuki**, K. Tsuboki, M. Kato, and T. Hikihara, Quantifying smoothing effects of wind power via Koopman mode decomposition: A numerical test with wind speed predictions in Japan, *Nonlinear Theory and Its Applications, IEICE*, vol.8, no.4, pp.342-357 October 2017. 
-\[pdf:[https://doi.org/10.1587/nolta.8.342 J-STAGE]\]
+[J-STAGE](https://doi.org/10.1587/nolta.8.342)
 1. C. Kojima, **Y. Susuki**, K. Tsumura, and S. Hara, Decomposition of energy function and hierarchical diagnosis of power grid swing instabilities, *Nonlinear Theory and Its Applications, IEICE*, vol.7, no.4, pp.523-547, October 2016. 
-\[pdf:[https://doi.org/10.1587/nolta.7.523 J-STAGE]\] (**2018 Best Paper Award**)
+[J-STAGE](https://doi.org/10.1587/nolta.7.523) (**2018 Best Paper Award**)
 1. **Y. Susuki**, I. Mezic, F. Raak, and T. Hikihara, Applied Koopman operator theory for power systems technology, *Nonlinear Theory and Its Applications, IEICE*, vol.7, no.4, pp.430-459, October 2016. 
-\[pdf:[https://arxiv.org/abs/1706.00159 arXiv],[https://doi.org/10.1587/nolta.7.430 J-STAGE]\]
-1. H. Hoshino, **Y. Susuki**, and T. Hikihara, A lumped-parameter model of multiscale dynamics in steam supply systems, /ASME Journal of Computational and Nonlinear Dynamics/, vol.11, issue 6, article no.061018, September 2016. 
-\[pdf:[https://arxiv.org/abs/1906.08135 arXiv],[https://doi.org/10.1115/1.4034491 ASME]\]
+[arXiv](https://arxiv.org/abs/1706.00159), [J-STAGE](https://doi.org/10.1587/nolta.7.430)
+1. H. Hoshino, **Y. Susuki**, and T. Hikihara, A lumped-parameter model of multiscale dynamics in steam supply systems, *ASME Journal of Computational and Nonlinear Dynamics*, vol.11, issue 6, article no.061018, September 2016. 
+[arXiv](https://arxiv.org/abs/1906.08135), [ASME](https://doi.org/10.1115/1.4034491)
 1. F. Raak, **Y. Susuki**, and T. Hikihara, Data-driven partitioning of power networks via Koopman mode analysis, *IEEE Transactions on Power Systems*, vol.31, no.4, pp.2799-2808, July 2016. 
-\[pdf:[https://doi.org/10.1109/TPWRS.2015.2464779 IEEE]\]
+[IEEE](https://doi.org/10.1109/TPWRS.2015.2464779)
 1.  Q. Wu, **Y. Susuki**, and T.J. Koo, RRT-based computation for dynamic security analysis of power systems, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E99-A, no.2, pp.491-501, February 2016. 
-\[pdf:[https://doi.org/10.1587/transfun.E99.A.491 J-STAGE]]
+[J-STAGE](https://doi.org/10.1587/transfun.E99.A.491)
 1.  T.N.M. Phan, J.C. Wells, **Y. Susuki**, L.V. Nguyen, J.S. Bonner, M.S. Islam, and W.D. Kirkey, Koopman modes in a near-bank region of a tidal river, *Journal of Japan Society of Civil Engineering, Ser. B1 (Hydraulic Engineering)*, vol.71, no.4, pp.I_205-I_210, February 2015. 
-\[pdf:[https://doi.org/10.2208/jscejhe.71.I_205 J-STAGE]\]
+[J-STAGE](https://doi.org/10.2208/jscejhe.71.I_205)
 1.  **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and power system stability assessment without models, *IEEE Transactions on Power Systems*, vol.29, no.2, pp.899-907, March 2014. 
-\[pdf:[https://doi.org/10.1109/TPWRS.2013.2287235 IEEE]\]
+[IEEE](https://doi.org/10.1109/TPWRS.2013.2287235)
 1.  S. Miyatake, **Y. Susuki**, T. Hikihara, S. Itoh, and K. Tanaka, Discharge characteristics of multicell lithium-ion battery with nonuniform cells, *Journal of Power Sources*, vol.241, pp.736-743, November 2013. 
-\[pdf:[http://hdl.handle.net/2433/178796 KU],[http://dx.doi.org/10.1016/j.jpowsour.2013.05.179 Elsevier]\] 
+[KU](http://hdl.handle.net/2433/178796), [Elsevier](http://dx.doi.org/10.1016/j.jpowsour.2013.05.179)
 1.  **Y. Susuki**, R. Kazaoka, and T. Hikihara, Physical architecture and model-based evaluation of electric power system with multiple homes, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E96-A, no.8, pp.1703-1711, August 2013. 
-\[pdf:[http://hdl.handle.net/2433/178795 KU],[https://doi.org/10.1587/transfun.E96.A.1703 J-STAGE]\]
+[KU](http://hdl.handle.net/2433/178795), [J-STAGE](https://doi.org/10.1587/transfun.E96.A.1703)
 1.  Y. Yokoi and **Y. Susuki**, Energy conversion and phase regulation in transient states of frequency entrainment described by van der Pol and phase-locked loop equations, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E96-A, no.2, pp.591-599, February 2013. 
-\[pdf:[https://doi.org/10.1587/transfun.E96.A.591 IEICE]\]
+[IEICE](https://doi.org/10.1587/transfun.E96.A.591)
 1.  **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and a precursor to power system swing instabilities, *IEEE Transactions on Power Systems*, vol.27, no.3, pp.1182-1191, August 2012. 
-\[pdf:[http://hdl.handle.net/2433/178794 KU],[https://doi.org/10.1109/TPWRS.2012.2183625 IEEE]\]
+[KU](http://hdl.handle.net/2433/178794), [IEEE](https://doi.org/10.1109/TPWRS.2012.2183625)
 1.  **Y. Susuki**, T. J. Koo, H. Ebina, T. Yamazaki, T. Ochi, T. Uemura, and T. Hikihara, A hybrid system approach to the analysis and design of power grid dynamic performance, *Proceedings of the IEEE*, vol.100, no.1, pp.225-239, January 2012. 
-\[pdf:[http://hdl.handle.net/2433/152055 KU],[https://doi.org/10.1109/JPROC.2011.2165329 IEEE]\]
+[KU](http://hdl.handle.net/2433/152055), [IEEE](https://doi.org/10.1109/JPROC.2011.2165329)
 1.  **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and coherency identification of coupled swing dynamics, *IEEE Transactions on Power Systems*, vol.26, no.4, pp.1894-1904, November 2011. 
-\[pdf:[https://doi.org/10.1109/TPWRS.2010.2103369 IEEE]\] 
+[IEEE](https://doi.org/10.1109/TPWRS.2010.2103369) 
 (also, correction, this journal, vol.26, no.4, p.2584, November 2011. 
-\[pdf:[https://doi.org/10.1109/TPWRS.2011.2165650 IEEE]\]) 
-\[[http://www-lab23.kuee.kyoto-u.ac.jp/susuki/pdf/Susuki_IEEETPWRS2011_corrected.pdf pdf]] 
-This version of the paper slightly differs from the published version. Please see the Erratum section.  
+[IEEE](https://doi.org/10.1109/TPWRS.2011.2165650)
 1.  Y. Takatsuji, **Y. Susuki**, and T. Hikihara, Hybrid controller for safe microgrid operation, *Nonlinear Theory and Its Applications, IEICE*, vol.2, no.3, pp.347-362, July 2011. 
-\[pdf:[https://doi.org/10.1587/nolta.2.347 J-STAGE]\]
-1.  **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent swing instability of power grids, /Journal of Nonlinear Science/, vol.21, no.3, pp.403-439, June 2011. 
-\[pdf:[https://doi.org/10.1007/s00332-010-9087-5 Springer]\]
+[J-STAGE](https://doi.org/10.1587/nolta.2.347)
+1.  **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent swing instability of power grids, *Journal of Nonlinear Science*, vol.21, no.3, pp.403-439, June 2011. 
+[Springer](https://doi.org/10.1007/s00332-010-9087-5)
 1.  **Y. Susuki**, Y. Takatsuji, and T. Hikihara, Hybrid model for cascading outage in a power system:  A numerical study, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E92-A, no.3, pp.871-879,  March 2009. 
-\[pdf:[http://hdl.handle.net/2433/70834 KU],[https://doi.org/10.1587/transfun.E92.A.871 J-STAGE]\]
-1.  **Y. Susuki**, T. Hikihara, and H.-D. Chiang, Discontinuous dynamics of electric power system with dc transmission:  A study on DAE system, /IEEE Transactions on Circuits and Systems, Part I: Regular Papers/, vol.55, no.2, pp.697-707, March 2008. 
-\[pdf:[http://hdl.handle.net/2433/50530 KU],[https://doi.org/10.1109/TCSI.2007.910642 IEEE]\]
+[KU](http://hdl.handle.net/2433/70834), [J-STAGE](https://doi.org/10.1587/transfun.E92.A.871)
+1.  **Y. Susuki**, T. Hikihara, and H.-D. Chiang, Discontinuous dynamics of electric power system with dc transmission:  A study on DAE system, *IEEE Transactions on Circuits and Systems, Part I: Regular Papers*, vol.55, no.2, pp.697-707, March 2008. 
+[KU](http://hdl.handle.net/2433/50530), [IEEE](https://doi.org/10.1109/TCSI.2007.910642)
 1.  **Y. Susuki** and Y. Ueda, Amplitude response curves of frequency-locked rotations, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E90-A, no.10, pp.2250-2252, October 2007. 
-\[pdf:[http://hdl.handle.net/2433/49178 KU],[https://search.ieice.org/bin/summary.php?id=e90-a_10_2250&category=A&year=2007&lang=E&abst= IEICE]\]
-1.  **Y. Susuki**, Y. Yokoi, and T. Hikihara, Energy-based analysis of frequency entrainment described by van der Pol and phase-locked loop equations, /CHAOS:  An Interdisciplinary Journal of Nonlinear Science/, vol.17, Art. no.023108, June 2007. 
-\[pdf:[http://hdl.handle.net/2433/49149 KU],[https://doi.org/10.1063/1.2720161 AIP]\] 
-1.  **Y. Susuki** and T. Hikihara, Transient dynamics in electric power system with dc transmission:  Fractal growth in stability boundary, /IEE Proceedings - Circuits, Devices and Systems/, vol.152, no.2, pp.159-164, April 2005. 
-\[pdf:[http://hdl.handle.net/2433/49152 KU],[http://dx.doi.org/10.1049/ip-cds:20040533  IET]\]
+[KU](http://hdl.handle.net/2433/49178), [IEICE](https://search.ieice.org/bin/summary.php?id=e90-a_10_2250&category=A&year=2007&lang=E&abst=)
+1.  **Y. Susuki**, Y. Yokoi, and T. Hikihara, Energy-based analysis of frequency entrainment described by van der Pol and phase-locked loop equations, *CHAOS:  An Interdisciplinary Journal of Nonlinear Science*, vol.17, Art. no.023108, June 2007. 
+[KU](http://hdl.handle.net/2433/49149), [AIP](https://doi.org/10.1063/1.2720161)
+1.  **Y. Susuki** and T. Hikihara, Transient dynamics in electric power system with dc transmission:  Fractal growth in stability boundary, *IEE Proceedings - Circuits, Devices and Systems*, vol.152, no.2, pp.159-164, April 2005. 
+[KU](http://hdl.handle.net/2433/49152), [IET](http://dx.doi.org/10.1049/ip-cds:20040533)
 1.  **Y. Susuki**, T. Hikihara, and H.-D. Chiang, Stability boundaries analysis of electric power system with dc transmission based on differential-algebraic equation system, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E87-A, no.9, pp.2339-2346, September 2004. 
-\[pdf:[http://hdl.handle.net/2433/49177 KU],[http://search.ieice.org/bin/summary.php?id=e87-a_9_2339&category=A&lang=E&year=2004&abst= IEICE]\]
+[KU](http://hdl.handle.net/2433/49177), [IEICE](http://search.ieice.org/bin/summary.php?id=e87-a_9_2339&category=A&lang=E&year=2004&abst=)
 
 ### Archival Journal Articles (in Japanese)
 
-1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. \[pdf:[https://doi.org/10.9746/sicetr.60.384 J-STAGE]\]
-1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. \[pdf:[https://doi.org/10.9746/sicetr.59.410 J-STAGE]\]
+1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
+[J-STAGE](https://doi.org/10.9746/sicetr.60.384)
+1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
+[J-STAGE](https://doi.org/10.9746/sicetr.59.410)
 1. S. Kimura, **Y. Susuki**, and A. Ishigame, Availability design of power supply for a building microgrid with in-vehicle battery, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Japanese edition)*, vol.J103-A, no.12, pp.306-320, December 2020. 
-\[pdf:[https://search.ieice.org/bin/summary.php?id=j103-a_12_306 J-STAGE],[http://hdl.handle.net/10466/00017197 OPU]\]
-1. C. Wada, S. Takayama, **Y. Susuki**, A. Ishigame, K. Deguchi, K. Konishi, D. Ishizuka, and K. Tanaka, A multi-scale supply operation of grid-connected micro-grid, /IEEJ Transactions on Power and Energy/, vol.140, no.3, pp.166-175, March 2020. 
-\[pdf:[https://doi.org/10.1541/ieejpes.140.166 J-STAGE]\]
+[J-STAGE](https://search.ieice.org/bin/summary.php?id=j103-a_12_306), [OPU](http://hdl.handle.net/10466/00017197)
+1. C. Wada, S. Takayama, **Y. Susuki**, A. Ishigame, K. Deguchi, K. Konishi, D. Ishizuka, and K. Tanaka, A multi-scale supply operation of grid-connected micro-grid, *IEEJ Transactions on Power and Energy*, vol.140, no.3, pp.166-175, March 2020. 
+[J-STAGE](https://doi.org/10.1541/ieejpes.140.166)
 1. H. Hoshino, **Y. Susuki**, T. John Koo, and T. Hikihara, Nonlinear control of combined heat and power plants in a two-site regional energy system, *Transactions of the Institute of Systems, Control and Information Engineers*, vol.30, no.5, pp.157-166, May 2017. 
-\[pdf:[https://doi.org/10.5687/iscie.30.157 J-STAGE]\]
+[J-STAGE](https://doi.org/10.5687/iscie.30.157)
 1. T. Saito, **Y. Susuki**, and T. Hikihara, Mode switching control for output leveling of in-home electric power system: Experiment and performance evaluation, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Japanese edition)*, vol.J100-A, no.5, pp.183-194, May 2017.
-\[pdf:[https://search.ieice.org/bin/summary.php?id=j100-a_5_183&category=A&year=2017&lang=J&abst= IEICE],[http://hdl.handle.net/10466/15725 OPU]\]
+[IEICE](https://search.ieice.org/bin/summary.php?id=j100-a_5_183&category=A&year=2017&lang=J&abst=), [OPU](http://hdl.handle.net/10466/15725)
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Applications of Koopman mode decomposition to modeling of heat transfer dynamics in building atriums-II: Advection by large-scale air movement, *Transactions of the Society of Instrument and Control Engineers*, vol.53, no.2, pp.188-197, February 2017. 
-\[pdf:[https://doi.org/10.9746/sicetr.53.188 J-STAGE]\]
+[J-STAGE](https://doi.org/10.9746/sicetr.53.188)
 1. Y. Kono, **Y. Susuki**, M. Hayashida, and T. Hikihara, Applications of Koopman mode decomposition to modeling of heat transfer dynamics in building atriums-I: Effective diffusion by small-scale air movement, *Transactions of the Society of Instrument and Control Engineers*, vol.53, no.2, pp.123-133, February 2017. 
-\[pdf:[https://doi.org/10.9746/sicetr.53.123 J-STAGE]\]
+[J-STAGE](https://doi.org/10.9746/sicetr.53.123)
 1. Y. Yamaguchi, **Y. Susuki**, and T. Hikihara, Battery-based output smoothing control of electric power system with multiple homes, *Transactions of the Institute of Systems, Control and Information Engineers*, vol.28, no.7, pp.299-309, July 2015.
-\[pdf:[https://doi.org/10.5687/iscie.28.299 J-STAGE]\]
+[J-STAGE](https://doi.org/10.5687/iscie.28.299)
 1. H. Hoshino, **Y. Susuki**, and T. Hikihara, Stability of two-sites regional power and heat supply system--Numerical simulations under step change of heat transfer reference, *Transactions of the Institute of Systems, Control and Information Engineers*, vol.27, no.11, pp.452-460, November 2014.
-\[pdf:[https://doi.org/10.5687/iscie.27.452 J-STAGE]\]
+[J-STAGE](https://doi.org/10.5687/iscie.27.452)
 1. **Y. Susuki** and T. Hikihara, Voltage instability analysis via hybrid system reachability, *Transactions of the Institute of Systems, Control and Information Engineers*, vol.21, no.11, pp.368-376, November 2008. 
-\[pdf:[http://hdl.handle.net/2433/66243 KU],[https://doi.org/10.5687/iscie.21.368 J-STAGE]\]
+[KU](http://hdl.handle.net/2433/66243), [J-STAGE](https://doi.org/10.5687/iscie.21.368)
 1. **Y. Susuki** and T. Hikihara, An analytical criterion for stability boundaries of non-autonomous systems based on Melnikov's method, *Transactions of the Institute of Systems, Control and Information Engineers*, vol.15, no.11, pp.586-592, November 2002. 
-\[pdf:[http://hdl.handle.net/2433/48898 KU],[https://doi.org/10.5687/iscie.15.586 J-STAGE]\]
+[KU](http://hdl.handle.net/2433/48898), [J-STAGE](https://doi.org/10.5687/iscie.15.586)
 
 
 ### Refereed Conference Proceedings
 
-1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties (submitted). \[pdf:[https://doi.org/10.48550/arXiv.2411.04052 arXiv]\]
-1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, /Annual Conference of the IEEE Industrial Electronics Society/ (IECON2024), Chicago, USA, November 3-6, 2024. \[pdf:[https://doi.org/10.48550/arXiv.2410.08556 arXiv]\]
-1. **Y. Susuki**, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, /European Control Conference/, pp.627-632, Stockholm, Sweden, June 2024. \[pdf:[https://doi.org/10.23919/ECC64448.2024.10590877 IEEE]\]
-1. C. Kojima, Y. Muto, and **Y. Susuki**, Dissipativity of nonlinear ODE model of distribution voltage profile, /IFAC World Congress/ (IFAC WC23), pp.7031-7036, Yokohama, Japan, July 9-14, 2023. \[pdf:[https://doi.org/10.48550/arXiv.2212.10031 arXiv],[https:doi.org/10.1016/j.ifacol.2023.10.858 IFAC]\]
-1. T. Watanabe, Y. Wasa, **Y. Susuki**, Y. Miwa, K. Hirata, and K. Tanaka, Economic optimization for dynamic cross-sector resilience design of energy and mobility via EVs: An emergency analysis, /IFAC World Congress/ (IFAC WC23), pp.736-741, Yokohama, Japan, July 9-14, 2023. \[pdf:[https:doi.org/10.1016/j.ifacol.2023.10.1645 IFAC]\]
-1. M. Noguchi, **Y. Susuki**, and A. Ishigame, Time-series analysis of phase dynamics in a campus distribution grid using short-term Koopman mode decomposition, /2022 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2022), pp.112-115, virtual, December 12-15, 2022. \[pdf:[https://doi.org/10.34385/proc.71.A4L-B-02 IEICE]\]
-1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic energy\/mobility allocataion with EV consumer behavior coupling transmission power and traffic systems, /4th IFAC Workshop on Cyber-Physical & Human-Systems/, pp.26-31, Houston, USA, December 1-2, 2022. \[pdf:[https://doi.org/10.1016/j.ifacol.2023.01.098 IFAC]\]
-1. R. Miyashita, **Y. Susuki**, and A. Ishigame, Koopman-model predictive control with signal temporal logic specifications for temperature regulation of a warm-water supply system, /SICE Annual Conference/ (SICE 2022), pp.1113-1118, Hybrid, September 6-9, 2022. 
-\[pdf:[https://arxiv.org/abs/2207.04184　arXiv],[https://doi.org/10.23919/SICE56594.2022.9905828  IEEE]\]
-1. **Y. Susuki**, K. Eto, N. Hiramatsu, and A. Ishigame, Control of oscillatory temperature field in a building via damping assignment to nonlinear Koopman mode, /IEEE Conference on Control Technology and Applications/ (CCTA 2022), pp.796-804, Hybrid, August 22-25, 2022. 
-\[pdf:[https://arxiv.org/abs/2207.03219 arXiv],[https://doi.org/10.1109/CCTA49430.2022.9966014 IEEE]\] \[[https://youtu.be/b40aOtlfb_A?si=F0rz84LiTx4sV0lH video]\]
-1. **Y. Susuki**, T. Shimomura, Y. Ota, and A. Ishigame, Online Koopman mode decomposition for power system synchrophasor data, /IFAC Symposium on Control of Power and Energy Systems/ (CPES 2022), Online, June 21-23, 2022. 
-\[pdf:[https://doi.org/10.1016/j.ifacol.2022.07.010 IFAC]\]
-1. **Y. Susuki**, On Koopman operator framework for semi-explicit differential-algebraic equations, /Third IFAC Conference on Modeling, Identification and Control of Nonlinear Systems/ (MICNON 2021), pp.361-365, Online, September 15-17, 2021. 
-\[pdf:[https://doi.org/10.1016/j.ifacol.2021.10.377 IFAC]\] \[[https://youtu.be/qXH80FaRPyE?si=UWVXUBueTteSk9l9 video]\]
-1. **Y. Susuki**, N. Kawamoto, Y. Ohashi, A. Ishigame, T. Funaki, and S. D’Arco, A modular approach to large-signal modeling of an interconnected AC\/MTDC system, /IEEE PES Innovative Smart Grid Technologies Europe/ (ISGT-Europe), pp.945-949, Online, October 26-28, 2020. 
-\[pdf:[https://doi.org/10.1109/ISGT-Europe47291.2020.9248890 IEEE]\]
-1. S. Yumiki, **Y. Susuki**, R. Masegi, A. Kawashima, A. Ishigame, K. Inagaki, and T. Suzuki, Computing an upper bound for charging\/discharging patterns of in-vehicle batteries towards cooperative transportation-energy management, /IEEE Intelligent Transportation Systems Conference/ (ITSC 2019), pp.655-660, Auckland, New Zealand, October 27-30, 2019. 
-\[pdf:[https://doi.org/10.1109/ITSC.2019.8916971 IEEE]\]
-1. M. Netto, V. Krishnan, L. Mili, **Y. Susuki**, and Y. Zhang, A hybrid framework combining model-based and data-driven methods for hierarchical decentralized robust dynamic state estimation, /IEEE Power & Energy Society General Meeting/ (PESGM 2019), Atlanta, Georgia, USA, August 4-8, 2019. 
-\[pdf:[https://www.nrel.gov/docs/fy19osti/72685.pdf NREL],[https://doi.org/10.1109/PESGM40551.2019.8973772 IEEE]\]
-1. I. Masaki, **Y. Susuki**, I. Mezic, and A. Ishigame, An LC-circuit model for dynamics of in-building heat transfer across atrium space, /4th Asia Conference of International Building Performance Simulation Association/ (ASIM 2018), Paper No. 371, Hong Kong, December 4-5, 2018; IOP Conference Series: Earth and Environmental Science, vol.238, 012012, 2019. 
-\[pdf:[https://doi.org/10.1088/1755-1315/238/1/012012 IoP]\]
-1. S. Kimura, **Y. Susuki**, and A. Ishigame, An MPC-based availability design of a building microgrid with in-vehicle battery, /2018 IEEE 7th Global Conference on Consumer Electronics/ (GCCE 2018), pp.573-575, Nara, Japan, October 9-12, 2018. 
-\[pdf:[https://doi.org/10.1109/GCCE.2018.8574842 IEEE]\]
-1. N. Hiramatsu, **Y. Susuki**, and A. Ishigame, An estimation of in-room temperature gradient using Koopman mode decomposition, /SICE Annual Conference/, pp.78-82, Nara, Japan, September 11-14, 2018. 
-1. A. Mauroy and **Y. Susuki**, Introduction to the Koopman operator in systems and control, /SICE Annual Conference/, pp.78-82, Nara, Japan, September 11-14, 2018.
-1. C. Wada, S. Takayama, **Y. Susuki**, A. Ishigame, K. Deguchi, K. Konishi, and K. Tanaka, A multi-scale optimal supply planning in microgrid with imbalance specification, /IFAC Symposium on Control of Power and Energy Systems/ (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
-\[pdf:[https://doi.org/10.1016/j.ifacol.2018.11.704 IFAC]\]
-1. M. Korda, **Y. Susuki**, and I. Mezic, Power grid transient stabilization using Koopman model predictive control, /IFAC Symposium on Control of Power and Energy Systems/ (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
-\[pdf:[https://arxiv.org/abs/1803.10744 arXiv],[https://doi.org/10.1016/j.ifacol.2018.11.718 IFAC]\]
-1. **Y. Susuki** and K. Sako, Data-based voltage analysis of power systems via delay embedding and extended dynamic mode decomposition, /IFAC Symposium on Control of Power and Energy Systems/ (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
-\[pdf:[https://doi.org/10.1016/j.ifacol.2018.11.705 IFAC]\]
-1. **Y. Susuki** and A. Chakrabortty, Introduction to Koopman mode decomposition for data-based technology of power system nonlinear dynamics, /IFAC Symposium on Control of Power and Energy Systems/ (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
-\[pdf:[https://doi.org/10.1016/j.ifacol.2018.11.723 IFAC]\]
-1. **Y. Susuki**, R. Hamasaki, and A. Ishigame, Estimation of power system inertia using nonlinear Koopman modes, /IEEE Power & Energy Society General Meeting/ (PESGM 2018), Portland, Oregon, USA, August 5-10, 2018. 
-\[pdf:[https://arxiv.org/abs/1805.01967 arXiv],[https://doi.org/10.1109/PESGM.2018.8586007 IEEE]\] 
-(*Best Conference Papers on Power System Stability, Control, and Protection*)
-1. **Y. Susuki**, F. Raak, H.G. Svendsen, and H.C. Bolstad, Assessing smoothing effects of wind power around Trondheim via Koopman mode decomposition, /15th Deep Sea Offshore Wind R&D Conference/ (EERA DeepWind’2018), Trondheim, Norway, January 17-19, 2018; Journal of Physics: Conference Series, vol.1104, 012009, 2018. 
-\[pdf:[https://doi.org/10.1088/1742-6596/1104/1/012009 IoP]\]
-1. S. Sugaya, **Y. Susuki**, A. Ishigame, A. Mammoli, and M. Martinez-Ramon, Modeling nonlinear dynamic system in RKHS through the Koopman operator, /2017 International Symposium on Nonlinear Theory and its Applications* (NOLTA2017), pp.7-10, Cancun, Mexico, December 2017. 
-\[pdf:[https://www.ieice.org/nolta/symposium/archive/2017/articles/5146.pdf IEICE]\]
-1. S. Kimura, **Y. Susuki**, and A. Ishigame, A reactive BEMS for reliable power supply with SOFC hydrogen coproduction unit, /2017 IEEE 6th Global Conference on Consumer Electronics/, (GCCE 2017), pp.799-803, Yokohama, Japan, October 24-27, 2017. 
-\[pdf:[https://doi.org/10.1109/GCCE.2017.8229290 IEEE]\]
-1. **Y. Susuki**, N. Mizuta, A. Kawashima, Y. Ota, A. Ishigame, S. Inagaki, and T. Suzuki, A continuum approach to assessing the impact of spatio-temporal EV charging to distribution grids, /IEEE 20th International Conference on Intelligent Transportation Systems/ (ITSC 2017), pp.2372-2377, Yokohama, Japan, October 16-19, 2017. 
-\[pdf:[https://doi.org/10.1109/CCTA.2017.8062462 IEEE]\]
-1. **Y. Susuki**, T. Saito, H. Hoshino, and T. Hikihara, Synthesis and real-time simulation of reactive controller for hot-water supply in a safety-critical hospital environment, /2017 IEEE Conference on Control Technology and Applications/ (CCTA2017), pp.211-216, Kohala Coast, Hawaii, USA, August 27-30, 2017. 
-\[pdf:[https://ieeexplore.ieee.org/document/8062465 IEEE]\]
-1. N. Mizuta, **Y. Susuki**, Y. Ota, and A. Ishigame, An ODE-based design of spatial charging\/discharging patterns of in-vehicle batteries for provision of ancillary service, /2017 IEEE Conference on Control Technology and Applications/ (CCTA2017), pp.193-198, Kohala Coast, Hawaii, USA, August 27-30, 2017. 
-\[pdf:[https://doi.org/10.1109/CCTA.2017.8062462 IEEE]\]
-1. C. Kojima, **Y. Susuki**, and A. Chakrabortty, A data-driven construction of energy functions for power grid collective behavior via synchrophasors, /SICE International Symposium on Control Systems 2017/ (SICE ISCS2017), article no.2A2-4, Okayama, Japan, March 6-9, 2017.
-1. F. Raak, **Y. Susuki**, I. Mezic, and T. Hikihara, On Koopman and dynamic mode decompositions for application to dynamic data with low spatial dimension, /55th IEEE Conference on Decision and Control/ (CDC2016), pp.6485-6491, Las Vegas, USA, December 2016. 
-\[pdf:[https://doi.org/10.1109/CDC.2016.7799267 IEEE]\]
-1. H. Hoshino, **Y. Susuki**, and T. Hikihara, Basins of attraction of steady operating conditions in a two-site electricity and heat supply system, /2016 International Symposium on Nonlinear Theory and its Applications* (NOLTA2016), pp.675-678, Yugawara, Japan, November 30, 2016. 
-\[pdf:[https://www.ieice.org/nolta/symposium/archive/2016/articles/1185.pdf IEICE]\]
-1. F. Raak, **Y. Susuki**, K. Tsuboki, M. Kato, and T. Hikihara, On smoothing effects of wind power via Koopman mode decomposition, /2016 International Symposium on Nonlinear Theory and its Applications* (NOLTA2016), pp.366-369, Yugawara, Japan, November 29, 2016. 
-\[pdf:[https://www.ieice.org/nolta/symposium/archive/2016/articles/1142.pdf IEICE]\]
-1. Y. Kono, **Y. Susuki**, M. Hayashida, and T. Hikihara, Modeling of effective heat diffusion in a building atrium via Koopman mode decomposition, /2016 International Symposium on Nonlinear Theory and its Applications* (NOLTA2016), pp.362-365, Yugawara, Japan, November 29, 2016. 
-\[pdf:[https://www.ieice.org/nolta/symposium/archive/2016/articles/1073.pdf IEICE]\]
-1. **Y. Susuki**, C. Kojima, and S. Hara, A hierarchical representation of power grid dynamics using singular perturbation, /SICE International Symposium on Control Systems/ (SICE ISCS2015), 4A2-2, March 7-10, 2016.
-1. C. Kojima, **Y. Susuki**, K. Tsumura, and S. Hara, Hierarchical transient stability diagnosis for interconnected loop power grids, /SICE International Symposium on Control Systems/ (SICE ISCS2015), 2A3-5, March 7-10, 2016.
-1. **Y. Susuki** and I. Mezic, A Prony approximation of Koopman mode decomposition, /54th IEEE Conference on Decision and Control/ (CDC2015), pp.7022-7027, Osaka, Japan, December 15-18, 2015.
-\[pdf:[https://doi.org/10.1109/CDC.2015.7403326 IEEE]\]
-1. C. Kojima, **Y. Susuki**, K. Tsumura, and S. Hara, Decomposition of energy function and hierarchical transient stability diagnosis for power networks, /54th IEEE Conference on Decision and Control/ (CDC2015), pp.3266-3271, Osaka, Japan, December 15-18, 2015.
-\[pdf:[https://doi.org/10.1109/CDC.2015.7402710 IEEE]\]
-1. H. Hoshino and **Y. Susuki**, Graph-based modeling and analysis of dynamic flows in steam supply networks, /54th IEEE Conference on Decision and Control/ (CDC2015), pp.1358-1363, Osaka, Japan, December 15-18, 2015.
-\[pdf:[https://doi.org/10.1109/CDC.2015.7402400 IEEE]\]
-1. F. Raak, **Y. Susuki**, and T. Hikihara, Multi-way partitioning of power networks via Koopman mode analysis, /9th IFAC Symposium on Control of Power and Energy Systems/ (CPES2015), New Delhi, India, December 9-11, 2015. 
-\[pdf:[http://hdl.handle.net/2433/245665 KU],[https://doi.org/10.1016/j.ifacol.2015.12.415 IFAC]\]
-1. F. Raak, **Y. Susuki**, R. Morita, T. Wada, K. Tsuboki, H. Uyeda, Y. Fujisaki, and T. Hikihara, Dynamic simulation of a wind farm incorporated with highly-resolved wind prediction data, /41st Annual Conference of the IEEE Industrial Electronics Society/ (IECON2015), pp.4406-4411, Yokohama, Japan, November 9-12, 2015.
-\[pdf:[https://doi.org/10.1109/IECON.2015.7392785 IEEE]\]
-1. **Y. Susuki**, I. Mezic, H. Hoshino, and T. Hikihara, A unified definition of collective instabilities in coupled generator networks, /4th IFAC Conference on Analysis and Control of Chaotic Systems/ (CHAOS2015), pp.89-94, Tokyo, Japan, August 26-28, 2015. 
-\[pdf:[https://doi.org/10.1016/j.ifacol.2015.11.016 IFAC]\]
-1. H. Hoshino, **Y. Susuki**, and T. Hikihara, A nonlinear dynamical model of electricity and heat supply system, /2014 International Symposium on Nonlinear Theory and its Applications* (NOLTA2014), pp.482-485, Luzern, Switzerland, September 14-18, 2014.
-\[pdf:[https://doi.org/10.34385/proc.46.C2L-A2 IEICE]\]
-1. Y. Yamaguchi, **Y. Susuki**, and T. Hikihara, A practical demonstration of battery control for electric-power management of multiple homes, /ISCIE\/ASME 2014 International Symposium on Flexible Automation/ (ISFA2014), Awaji-Island, Japan, July 14-16, 2014.
-1. **Y. Susuki**, H. Hoshino, T. Hikihara, and I. Mezic, Nonlinear instability of a network of fixed-speed induction generators, /13th European Control Conference/ (ECC2014), pp.1313-1318, Strasbourg, France, June 24-27, 2014. 
-\[pdf:[https://doi.org/10.1109/ECC.2014.6862396 IEEE]\]
-1. F. Raak, **Y. Susuki**, T. Hikihara, H.R. Chamorro, and M. Ghandhari, Partitioning power grids via nonlinear Koopman mode analysis, /5th IEEE PES Conference on Innovative Smart Grid Technologies/ (ISGT2014), Washington, DC, USA, February 19-22, 2014. 
-\[pdf:[https://doi.org/10.1109/ISGT.2014.6816374 IEEE]]
-1. **Y. Susuki**, A numerical study on electroporation by amplitude-modulated electric field, /2013 International Symposium on Nonlinear Theory and its Applications* (NOLTA2013), pp.479-482, Santa Fe, USA, September 2013. 
-1. **Y. Susuki**, R. Kazaoka, and T. Hikihara, Physical architectures and mathematical models for electric-power management of multiple homes, /50th IEEE Conference on Decision and Control and European Control Conference/ (CDC-ECC11), pp. 7703-7710, Orlando, USA, December 12-15. 2011. 
-\[pdf:[http://hdl.handle.net/2433/151842 KU],[https://doi.org/10.1109/CDC.2011.6160671 IEEE]\]
-1. **Y. Susuki** and I. Mezic, Nonlinear Koopman mode analysis and power system swing stability, /2011 International Symposium on Nonlinear Theory and its Applications* (NOLAT2011), pp. 124-127, Kobe, Japan September 4-7, 2011.
-1. **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent swing instability of power systems and cascading failures, /2010 IEEE Power & Energy Society General Meeting/ (PESGM2010), Minneapolis, USA, July 25-29, 2010. 
-\[pdf:[http://hdl.handle.net/2433/123309 KU],[https://doi.org/10.1109/PES.2010.5589548 IEEE]]
-1. **Y. Susuki** and I. Mezic, Nonlinear Koopman modes of coupled swing dynamics and coherency identification, /2010 IEEE Power & Energy Society General Meeting/ (PESGM2010), Minneapolis, USA, July 25-29, 2010. 
-\[pdf:[http://hdl.handle.net/2433/123308 KU],[https://doi.org/10.1109/PES.2010.5589363 IEEE]\]
-\[[http://www-lab23.kuee.kyoto-u.ac.jp/susuki/pdf/Susuki_IEEEPESGM10-238_corrected.pdf pdf]\] 
-This version of the paper slightly differs from the published version. Please see the Erratum section.  
-1. **Y. Susuki** and I. Mezic, Ergodic partition of phase space in continuous dynamical systems, /Joint 48th IEEE Conference on Decision and Control and 28th Chinese Control Conference/ (CDC/CCC2009), pp.7497-7502, Shanghai, China, December 16-18, 2009. 
-\[pdf:[http://hdl.handle.net/2433/89656 KU],[https://doi.org/10.1109/CDC.2009.5400911 IEEE]\]
-1. T. J. Koo, X. Qin, S. Yang, and **Y. Susuki**, Reachability computation for power system transient stability, /2009 International Symposium on Nonlinear Theory and its Applications* (NOLTA2009), pp.552-555, Sapporo, Japan, October 18-21, 2009. 
-\[pdf:[http://hdl.handle.net/2433/87303 KU]]
-1. **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent dynamics and instability of power grids, /2009 International Symposium on Nonlinear Theory and its Applications* (NOLTA2009), pp.540-543, Sapporo, Japan, October 18-21, 2009. 
-\[pdf:[http://hdl.handle.net/2433/87302 KU]]
-1. **Y. Susuki**, I. Mezic, and T. Hikihara, Global swing instability in the New England power grid model, /2009 American Control Conference/ (ACC2009), pp.3446-3451, St. Louis, USA, June 10-12, 2009. 
-\[pdf:[http://hdl.handle.net/2433/89657 KU],[https://doi.org/10.1109/ACC.2009.5160374 IEEE]]
-1. **Y. Susuki**, I. Mezic, and T. Hikihara, Global swing instability of multimachine power systems, /47th IEEE Conference on Decision and Control/ (CDC2008), pp.2487-2492, Cancun, Mexico, December 9-11, 2008. 
-\[pdf:[http://hdl.handle.net/2433/73438 KU],[https://doi.org/10.1109/CDC.2008.4738664 IEEE]]
-1. **Y. Susuki**, T. Sakiyama, T. Ochi, T. Uemura, and T. Hikihara, Verifying fault release control of power system via hybrid system reachability, /40th North American Power Symposium/ (NAPS2008), Calgary, Canada, September 28-30, 2008.
-\[pdf:[http://hdl.handle.net/2433/66188 KU],[https://doi.org/10.1109/NAPS.2008.5307297 IEEE]]
-1. **Y. Susuki**, Y. Takatsuji, and T. Hikihara, Hybrid dynamical system as model for cascading outage in a power system, /40th North American Power Symposium/ (NAPS2008), Calgary, Canada, September 28-30, 2008. 
-\[pdf:[http://hdl.handle.net/2433/66189 KU],[https://doi.org/10.1109/NAPS.2008.5307356 IEEE]]
-1. Y. Yokoi, **Y. Susuki**, and T. Hikihara, A dissipated power-based analysis of frequency entrainment described by van der Pol and PLL equations, /2007 International Symposium on Nonlinear Theory and its Applications* (NOLTA2007), pp.317-320, Vancouver, Canada, September 16-19, 2007.
-1. **Y. Susuki** and T. Hikihara, Predicting voltage instability of power system via hybrid system reachability analysis, /2007 American Control Conference/ (ACC2007), pp.4166-4171, Marriott Marquis Hotel at Times Square, New York, USA, July 11-13, 2007. 
-\[pdf:[http://hdl.handle.net/2433/73437 KU],[https://doi.org/10.1109/ACC.2007.4282216 IEEE]]
-1. **Y. Susuki** and Y. Ueda, Amplitude response curves of frequency-locked rotations, /2006 International Symposium on Nonlinear Theory and its Applications* (NOLTA2006), pp.75-78, Bologna, Italy, September 11-14, 2006.
-1. **Y. Susuki**, T. Hikihara, and H. Ebina, Predicting instability of power systems based on hybrid system reachability analysis, /2006 International Symposium on Nonlinear Theory and its Applications* (NOLTA2006), pp.647-650, Bologna, Italy, September 11-14, 2006.
-1. **Y. Susuki**, H. Ebina, and T. Hikihara, Predicting transient instability of power systems based on hybrid system reachability analysis, /IFAC Symposium on Power Plants and Power Systems Control/, Delta Lodge at Kananaskis, Canada, June 25-28, 2006. 
-\[pdf:[http://hdl.handle.net/2433/73436 KU]]
-
+1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, June 2025 (accepted). 
+[arXiv](https://doi.org/10.48550/arXiv.2411.04052)
+1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON2024), Chicago, USA, November 3-6, 2024. 
+[arXiv](https://doi.org/10.48550/arXiv.2410.08556)
+1. **Y. Susuki**, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, *European Control Conference*, pp.627-632, Stockholm, Sweden, June 2024. 
+[IEEE](https://doi.org/10.23919/ECC64448.2024.10590877)
+1. C. Kojima, Y. Muto, and **Y. Susuki**, Dissipativity of nonlinear ODE model of distribution voltage profile, *IFAC World Congress* (IFAC WC23), pp.7031-7036, Yokohama, Japan, July 9-14, 2023. 
+[arXiv](https://doi.org/10.48550/arXiv.2212.10031), [IFAC](https:doi.org/10.1016/j.ifacol.2023.10.858)
+1. T. Watanabe, Y. Wasa, **Y. Susuki**, Y. Miwa, K. Hirata, and K. Tanaka, Economic optimization for dynamic cross-sector resilience design of energy and mobility via EVs: An emergency analysis, *IFAC World Congress* (IFAC WC23), pp.736-741, Yokohama, Japan, July 9-14, 2023. 
+[IFAC](https:doi.org/10.1016/j.ifacol.2023.10.1645)
+1. M. Noguchi, **Y. Susuki**, and A. Ishigame, Time-series analysis of phase dynamics in a campus distribution grid using short-term Koopman mode decomposition, *2022 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2022), pp.112-115, virtual, December 12-15, 2022. 
+[IEICE](https://doi.org/10.34385/proc.71.A4L-B-02)
+1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic energy\/mobility allocataion with EV consumer behavior coupling transmission power and traffic systems, *4th IFAC Workshop on Cyber-Physical & Human-Systems*, pp.26-31, Houston, USA, December 1-2, 2022. 
+[IFAC](https://doi.org/10.1016/j.ifacol.2023.01.098)
+1. R. Miyashita, **Y. Susuki**, and A. Ishigame, Koopman-model predictive control with signal temporal logic specifications for temperature regulation of a warm-water supply system, *SICE Annual Conference* (SICE 2022), pp.1113-1118, Hybrid, September 6-9, 2022. 
+[arXiv](https://arxiv.org/abs/2207.04184), [IEEE](https://doi.org/10.23919/SICE56594.2022.9905828)
+1. **Y. Susuki**, K. Eto, N. Hiramatsu, and A. Ishigame, Control of oscillatory temperature field in a building via damping assignment to nonlinear Koopman mode, *IEEE Conference on Control Technology and Applications* (CCTA 2022), pp.796-804, Hybrid, August 22-25, 2022. 
+[arXiv](https://arxiv.org/abs/2207.03219), [IEEE](https://doi.org/10.1109/CCTA49430.2022.9966014), [video](https://youtu.be/b40aOtlfb_A?si=F0rz84LiTx4sV0lH)
+1. **Y. Susuki**, T. Shimomura, Y. Ota, and A. Ishigame, Online Koopman mode decomposition for power system synchrophasor data, *IFAC Symposium on Control of Power and Energy Systems* (CPES 2022), Online, June 21-23, 2022. 
+[IFAC](https://doi.org/10.1016/j.ifacol.2022.07.010)
+1. **Y. Susuki**, On Koopman operator framework for semi-explicit differential-algebraic equations, *Third IFAC Conference on Modeling, Identification and Control of Nonlinear Systems* (MICNON 2021), pp.361-365, Online, September 15-17, 2021. 
+[IFAC](https://doi.org/10.1016/j.ifacol.2021.10.377), [video](https://youtu.be/qXH80FaRPyE?si=UWVXUBueTteSk9l9)
+1. **Y. Susuki**, N. Kawamoto, Y. Ohashi, A. Ishigame, T. Funaki, and S. D’Arco, A modular approach to large-signal modeling of an interconnected AC\/MTDC system, *IEEE PES Innovative Smart Grid Technologies Europe* (ISGT-Europe), pp.945-949, Online, October 26-28, 2020. 
+[IEEE](https://doi.org/10.1109/ISGT-Europe47291.2020.9248890)
+1. S. Yumiki, **Y. Susuki**, R. Masegi, A. Kawashima, A. Ishigame, K. Inagaki, and T. Suzuki, Computing an upper bound for charging\/discharging patterns of in-vehicle batteries towards cooperative transportation-energy management, *IEEE Intelligent Transportation Systems Conference* (ITSC 2019), pp.655-660, Auckland, New Zealand, October 27-30, 2019. 
+[IEEE](https://doi.org/10.1109/ITSC.2019.8916971)
+1. M. Netto, V. Krishnan, L. Mili, **Y. Susuki**, and Y. Zhang, A hybrid framework combining model-based and data-driven methods for hierarchical decentralized robust dynamic state estimation, *IEEE Power & Energy Society General Meeting* (PESGM 2019), Atlanta, Georgia, USA, August 4-8, 2019. 
+[NREL](https://www.nrel.gov/docs/fy19osti/72685.pdf), [IEEE](https://doi.org/10.1109/PESGM40551.2019.8973772)
+1. I. Masaki, **Y. Susuki**, I. Mezic, and A. Ishigame, An LC-circuit model for dynamics of in-building heat transfer across atrium space, *4th Asia Conference of International Building Performance Simulation Association* (ASIM 2018), Paper No. 371, Hong Kong, December 4-5, 2018; IOP Conference Series: Earth and Environmental Science, vol.238, 012012, 2019. 
+[IoP](https://doi.org/10.1088/1755-1315/238/1/012012)
+1. S. Kimura, **Y. Susuki**, and A. Ishigame, An MPC-based availability design of a building microgrid with in-vehicle battery, *2018 IEEE 7th Global Conference on Consumer Electronics* (GCCE 2018), pp.573-575, Nara, Japan, October 9-12, 2018. 
+[IEEE](https://doi.org/10.1109/GCCE.2018.8574842)
+1. N. Hiramatsu, **Y. Susuki**, and A. Ishigame, An estimation of in-room temperature gradient using Koopman mode decomposition, *SICE Annual Conference*, pp.78-82, Nara, Japan, September 11-14, 2018. 
+1. A. Mauroy and **Y. Susuki**, Introduction to the Koopman operator in systems and control, *SICE Annual Conference*, pp.78-82, Nara, Japan, September 11-14, 2018.
+1. C. Wada, S. Takayama, **Y. Susuki**, A. Ishigame, K. Deguchi, K. Konishi, and K. Tanaka, A multi-scale optimal supply planning in microgrid with imbalance specification, *IFAC Symposium on Control of Power and Energy Systems* (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
+[IFAC](https://doi.org/10.1016/j.ifacol.2018.11.704)
+1. M. Korda, **Y. Susuki**, and I. Mezic, Power grid transient stabilization using Koopman model predictive control, *IFAC Symposium on Control of Power and Energy Systems* (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
+[arXiv](https://arxiv.org/abs/1803.10744), [IFAC](https://doi.org/10.1016/j.ifacol.2018.11.718)
+1. **Y. Susuki** and K. Sako, Data-based voltage analysis of power systems via delay embedding and extended dynamic mode decomposition, *IFAC Symposium on Control of Power and Energy Systems* (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
+[IFAC](https://doi.org/10.1016/j.ifacol.2018.11.705)
+1. **Y. Susuki** and A. Chakrabortty, Introduction to Koopman mode decomposition for data-based technology of power system nonlinear dynamics, *IFAC Symposium on Control of Power and Energy Systems* (CPES 2018), Tokyo, Japan, September 3-5, 2018. 
+[IFAC](https://doi.org/10.1016/j.ifacol.2018.11.723)
+1. **Y. Susuki**, R. Hamasaki, and A. Ishigame, Estimation of power system inertia using nonlinear Koopman modes, *IEEE Power & Energy Society General Meeting* (PESGM 2018), Portland, Oregon, USA, August 5-10, 2018. 
+[arXiv](https://arxiv.org/abs/1805.01967), [IEEE](https://doi.org/10.1109/PESGM.2018.8586007) 
+(**Best Conference Papers on Power System Stability, Control, and Protection**)
+1. **Y. Susuki**, F. Raak, H.G. Svendsen, and H.C. Bolstad, Assessing smoothing effects of wind power around Trondheim via Koopman mode decomposition, *15th Deep Sea Offshore Wind R\&D Conference* (EERA DeepWind’2018), Trondheim, Norway, January 17-19, 2018; Journal of Physics: Conference Series, vol.1104, 012009, 2018. 
+[IoP](https://doi.org/10.1088/1742-6596/1104/1/012009)
+1. S. Sugaya, **Y. Susuki**, A. Ishigame, A. Mammoli, and M. Martinez-Ramon, Modeling nonlinear dynamic system in RKHS through the Koopman operator, *2017 International Symposium on Nonlinear Theory and its Applications* (NOLTA2017), pp.7-10, Cancun, Mexico, December 2017. 
+[IEICE](https://www.ieice.org/nolta/symposium/archive/2017/articles/5146.pdf)
+1. S. Kimura, **Y. Susuki**, and A. Ishigame, A reactive BEMS for reliable power supply with SOFC hydrogen coproduction unit, *2017 IEEE 6th Global Conference on Consumer Electronics*, (GCCE 2017), pp.799-803, Yokohama, Japan, October 24-27, 2017. 
+[IEEE](https://doi.org/10.1109/GCCE.2017.8229290)
+1. **Y. Susuki**, N. Mizuta, A. Kawashima, Y. Ota, A. Ishigame, S. Inagaki, and T. Suzuki, A continuum approach to assessing the impact of spatio-temporal EV charging to distribution grids, *IEEE 20th International Conference on Intelligent Transportation Systems* (ITSC 2017), pp.2372-2377, Yokohama, Japan, October 16-19, 2017. 
+[IEEE](https://doi.org/10.1109/CCTA.2017.8062462)
+1. **Y. Susuki**, T. Saito, H. Hoshino, and T. Hikihara, Synthesis and real-time simulation of reactive controller for hot-water supply in a safety-critical hospital environment, *2017 IEEE Conference on Control Technology and Applications* (CCTA2017), pp.211-216, Kohala Coast, Hawaii, USA, August 27-30, 2017. 
+[IEEE](https://ieeexplore.ieee.org/document/8062465)
+1. N. Mizuta, **Y. Susuki**, Y. Ota, and A. Ishigame, An ODE-based design of spatial charging\/discharging patterns of in-vehicle batteries for provision of ancillary service, *2017 IEEE Conference on Control Technology and Applications* (CCTA2017), pp.193-198, Kohala Coast, Hawaii, USA, August 27-30, 2017. 
+[IEEE](https://doi.org/10.1109/CCTA.2017.8062462)
+1. C. Kojima, **Y. Susuki**, and A. Chakrabortty, A data-driven construction of energy functions for power grid collective behavior via synchrophasors, *SICE International Symposium on Control Systems 2017* (SICE ISCS2017), article no.2A2-4, Okayama, Japan, March 6-9, 2017.
+1. F. Raak, **Y. Susuki**, I. Mezic, and T. Hikihara, On Koopman and dynamic mode decompositions for application to dynamic data with low spatial dimension, *55th IEEE Conference on Decision and Control* (CDC2016), pp.6485-6491, Las Vegas, USA, December 2016. 
+[IEEE](https://doi.org/10.1109/CDC.2016.7799267)
+1. H. Hoshino, **Y. Susuki**, and T. Hikihara, Basins of attraction of steady operating conditions in a two-site electricity and heat supply system, *2016 International Symposium on Nonlinear Theory and its Applications* (NOLTA2016), pp.675-678, Yugawara, Japan, November 30, 2016. 
+[IEICE](https://www.ieice.org/nolta/symposium/archive/2016/articles/1185.pdf)
+1. F. Raak, **Y. Susuki**, K. Tsuboki, M. Kato, and T. Hikihara, On smoothing effects of wind power via Koopman mode decomposition, *2016 International Symposium on Nonlinear Theory and its Applications* (NOLTA2016), pp.366-369, Yugawara, Japan, November 29, 2016. 
+[IEICE](https://www.ieice.org/nolta/symposium/archive/2016/articles/1142.pdf)
+1. Y. Kono, **Y. Susuki**, M. Hayashida, and T. Hikihara, Modeling of effective heat diffusion in a building atrium via Koopman mode decomposition, *2016 International Symposium on Nonlinear Theory and its Applications* (NOLTA2016), pp.362-365, Yugawara, Japan, November 29, 2016. 
+[IEICE](https://www.ieice.org/nolta/symposium/archive/2016/articles/1073.pdf)
+1. **Y. Susuki**, C. Kojima, and S. Hara, A hierarchical representation of power grid dynamics using singular perturbation, *SICE International Symposium on Control Systems* (SICE ISCS2015), 4A2-2, March 7-10, 2016.
+1. C. Kojima, **Y. Susuki**, K. Tsumura, and S. Hara, Hierarchical transient stability diagnosis for interconnected loop power grids, *SICE International Symposium on Control Systems* (SICE ISCS2015), 2A3-5, March 7-10, 2016.
+1. **Y. Susuki** and I. Mezic, A Prony approximation of Koopman mode decomposition, *54th IEEE Conference on Decision and Control* (CDC2015), pp.7022-7027, Osaka, Japan, December 15-18, 2015.
+[IEEE](https://doi.org/10.1109/CDC.2015.7403326)
+1. C. Kojima, **Y. Susuki**, K. Tsumura, and S. Hara, Decomposition of energy function and hierarchical transient stability diagnosis for power networks, *54th IEEE Conference on Decision and Control* (CDC2015), pp.3266-3271, Osaka, Japan, December 15-18, 2015.
+[IEEE](https://doi.org/10.1109/CDC.2015.7402710)
+1. H. Hoshino and **Y. Susuki**, Graph-based modeling and analysis of dynamic flows in steam supply networks, *54th IEEE Conference on Decision and Control* (CDC2015), pp.1358-1363, Osaka, Japan, December 15-18, 2015.
+[IEEE](https://doi.org/10.1109/CDC.2015.7402400)
+1. F. Raak, **Y. Susuki**, and T. Hikihara, Multi-way partitioning of power networks via Koopman mode analysis, *9th IFAC Symposium on Control of Power and Energy Systems* (CPES2015), New Delhi, India, December 9-11, 2015. 
+[KU](http://hdl.handle.net/2433/245665), [IFAC](https://doi.org/10.1016/j.ifacol.2015.12.415)
+1. F. Raak, **Y. Susuki**, R. Morita, T. Wada, K. Tsuboki, H. Uyeda, Y. Fujisaki, and T. Hikihara, Dynamic simulation of a wind farm incorporated with highly-resolved wind prediction data, *41st Annual Conference of the IEEE Industrial Electronics Society* (IECON2015), pp.4406-4411, Yokohama, Japan, November 9-12, 2015.
+[IEEE](https://doi.org/10.1109/IECON.2015.7392785)
+1. **Y. Susuki**, I. Mezic, H. Hoshino, and T. Hikihara, A unified definition of collective instabilities in coupled generator networks, *4th IFAC Conference on Analysis and Control of Chaotic Systems* (CHAOS2015), pp.89-94, Tokyo, Japan, August 26-28, 2015. 
+[IFAC](https://doi.org/10.1016/j.ifacol.2015.11.016)
+1. H. Hoshino, **Y. Susuki**, and T. Hikihara, A nonlinear dynamical model of electricity and heat supply system, *2014 International Symposium on Nonlinear Theory and its Applications* (NOLTA2014), pp.482-485, Luzern, Switzerland, September 14-18, 2014.
+[IEICE](https://doi.org/10.34385/proc.46.C2L-A2)
+1. Y. Yamaguchi, **Y. Susuki**, and T. Hikihara, A practical demonstration of battery control for electric-power management of multiple homes, *ISCIE\/ASME 2014 International Symposium on Flexible Automation* (ISFA2014), Awaji-Island, Japan, July 14-16, 2014.
+1. **Y. Susuki**, H. Hoshino, T. Hikihara, and I. Mezic, Nonlinear instability of a network of fixed-speed induction generators, *13th European Control Conference* (ECC2014), pp.1313-1318, Strasbourg, France, June 24-27, 2014. 
+[IEEE](https://doi.org/10.1109/ECC.2014.6862396)
+1. F. Raak, **Y. Susuki**, T. Hikihara, H.R. Chamorro, and M. Ghandhari, Partitioning power grids via nonlinear Koopman mode analysis, *5th IEEE PES Conference on Innovative Smart Grid Technologies* (ISGT2014), Washington, DC, USA, February 19-22, 2014. 
+[IEEE](https://doi.org/10.1109/ISGT.2014.6816374)
+1. **Y. Susuki**, A numerical study on electroporation by amplitude-modulated electric field, *2013 International Symposium on Nonlinear Theory and its Applications* (NOLTA2013), pp.479-482, Santa Fe, USA, September 2013. 
+1. **Y. Susuki**, R. Kazaoka, and T. Hikihara, Physical architectures and mathematical models for electric-power management of multiple homes, *50th IEEE Conference on Decision and Control and European Control Conference* (CDC-ECC11), pp. 7703-7710, Orlando, USA, December 12-15. 2011. 
+[KU](http://hdl.handle.net/2433/151842), [IEEE](https://doi.org/10.1109/CDC.2011.6160671)
+1. **Y. Susuki** and I. Mezic, Nonlinear Koopman mode analysis and power system swing stability, *2011 International Symposium on Nonlinear Theory and its Applications* (NOLAT2011), pp. 124-127, Kobe, Japan September 4-7, 2011.
+1. **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent swing instability of power systems and cascading failures, *2010 IEEE Power & Energy Society General Meeting* (PESGM2010), Minneapolis, USA, July 25-29, 2010. 
+[KU](http://hdl.handle.net/2433/123309),[IEEE](https://doi.org/10.1109/PES.2010.5589548)
+1. **Y. Susuki** and I. Mezic, Nonlinear Koopman modes of coupled swing dynamics and coherency identification, *2010 IEEE Power & Energy Society General Meeting* (PESGM2010), Minneapolis, USA, July 25-29, 2010. 
+[KU](http://hdl.handle.net/2433/123308), [IEEE](https://doi.org/10.1109/PES.2010.5589363) 
+1. **Y. Susuki** and I. Mezic, Ergodic partition of phase space in continuous dynamical systems, *Joint 48th IEEE Conference on Decision and Control and 28th Chinese Control Conference* (CDC\/CCC2009), pp.7497-7502, Shanghai, China, December 16-18, 2009. 
+[KU](http://hdl.handle.net/2433/89656), [IEEE](https://doi.org/10.1109/CDC.2009.5400911)
+1. T. J. Koo, X. Qin, S. Yang, and **Y. Susuki**, Reachability computation for power system transient stability, *2009 International Symposium on Nonlinear Theory and its Applications* (NOLTA2009), pp.552-555, Sapporo, Japan, October 18-21, 2009. 
+[KU](http://hdl.handle.net/2433/87303)
+1. **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent dynamics and instability of power grids, *2009 International Symposium on Nonlinear Theory and its Applications* (NOLTA2009), pp.540-543, Sapporo, Japan, October 18-21, 2009. 
+[KU](http://hdl.handle.net/2433/87302)
+1. **Y. Susuki**, I. Mezic, and T. Hikihara, Global swing instability in the New England power grid model, *2009 American Control Conference* (ACC2009), pp.3446-3451, St. Louis, USA, June 10-12, 2009. 
+[KU](http://hdl.handle.net/2433/89657),[IEEE](https://doi.org/10.1109/ACC.2009.5160374)
+1. **Y. Susuki**, I. Mezic, and T. Hikihara, Global swing instability of multimachine power systems, *47th IEEE Conference on Decision and Control* (CDC2008), pp.2487-2492, Cancun, Mexico, December 9-11, 2008. 
+[KU](http://hdl.handle.net/2433/73438),[IEEE](https://doi.org/10.1109/CDC.2008.4738664)
+1. **Y. Susuki**, T. Sakiyama, T. Ochi, T. Uemura, and T. Hikihara, Verifying fault release control of power system via hybrid system reachability, *40th North American Power Symposium* (NAPS2008), Calgary, Canada, September 28-30, 2008.
+[KU](http://hdl.handle.net/2433/66188), [IEEE](https://doi.org/10.1109/NAPS.2008.5307297)
+1. **Y. Susuki**, Y. Takatsuji, and T. Hikihara, Hybrid dynamical system as model for cascading outage in a power system, *40th North American Power Symposium* (NAPS2008), Calgary, Canada, September 28-30, 2008. 
+[KU](http://hdl.handle.net/2433/66189), [IEEE](https://doi.org/10.1109/NAPS.2008.5307356)
+1. Y. Yokoi, **Y. Susuki**, and T. Hikihara, A dissipated power-based analysis of frequency entrainment described by van der Pol and PLL equations, *2007 International Symposium on Nonlinear Theory and its Applications* (NOLTA2007), pp.317-320, Vancouver, Canada, September 16-19, 2007.
+1. **Y. Susuki** and T. Hikihara, Predicting voltage instability of power system via hybrid system reachability analysis, *2007 American Control Conference* (ACC2007), pp.4166-4171, Marriott Marquis Hotel at Times Square, New York, USA, July 11-13, 2007. 
+[KU](http://hdl.handle.net/2433/73437), [IEEE](https://doi.org/10.1109/ACC.2007.4282216)
+1. **Y. Susuki** and Y. Ueda, Amplitude response curves of frequency-locked rotations, *2006 International Symposium on Nonlinear Theory and its Applications* (NOLTA2006), pp.75-78, Bologna, Italy, September 11-14, 2006.
+1. **Y. Susuki**, T. Hikihara, and H. Ebina, Predicting instability of power systems based on hybrid system reachability analysis, *2006 International Symposium on Nonlinear Theory and its Applications* (NOLTA2006), pp.647-650, Bologna, Italy, September 11-14, 2006.
+1. **Y. Susuki**, H. Ebina, and T. Hikihara, Predicting transient instability of power systems based on hybrid system reachability analysis, *IFAC Symposium on Power Plants and Power Systems Control*, Delta Lodge at Kananaskis, Canada, June 25-28, 2006. 
+[KU](http://hdl.handle.net/2433/73436)
 1. **Y. Susuki**, H. Ebina, and T. Hikihara, Application of hybrid system theory to power system stability analysis, *2005 International Symposium on Nonlinear Theory and its Applications* (NOLTA2005), pp.202-205, SEC@BRUGES, Belgium, October 18-21, 2005. 
 [KU](http://hdl.handle.net/2433/73435)
 1. **Y. Susuki**, Y. Takama, T. Funaki, and T. Hikihara, Evaluating performance of hybrid-type power system simulator based on transient stability analysis:  A dynamical system approach, *2005 IEEE International Symposium on Circuits and Systems* (ISCAS2005), pp.3894-3897, International Conference Center Kobe, Japan, May 23-26, 2005.
