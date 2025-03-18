@@ -6,7 +6,7 @@ title = ''
 
 ### Research topics
 
-- Koopman operator theory in dynamical systems and its applications to technologies
+- Koopman operator theory in dynamical systems and its applications to green-edge technologies
 - Design of cooperative management systems of sharing economy for mobility and energy
 - Formal methods and software applied to the synthesis of safety-critical energy systems
 - Multi-scale/multi-physics modeling and design of all-solid lithium-ion batteries

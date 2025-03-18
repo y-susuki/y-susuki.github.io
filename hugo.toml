@@ -86,7 +86,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Author config
   [params.author]
-    name = "Susuki"
+    name = "Yoshihiko Susuki"
     email = "susuki@ieee.org"
     link = ""
 
@@ -101,7 +101,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Operator x Energy"
+      name = "Operator x Green-Edge"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -194,7 +194,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       # title shown in home page (HTML format is supported)
-      title = "Operator x Energy"
+      title = "Operator x Green-Edge"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Welcome to Yoshihiko Susuki's website !"
       # whether to use typeit animation for subtitle

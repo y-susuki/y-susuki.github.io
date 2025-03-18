@@ -34,7 +34,7 @@ title = 'Publication list'
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
 [arXiv](https://arxiv.org/abs/2305.07198), [Taylor & Francis](https://doi.org/10.1080/18824889.2024.2402103)
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *CHAOS: An Interdisciplinary Journal of Nonlinear Science*, vol.34, no.9, September 2024. [arXiv](https://doi.org/10.48550/arXiv.2405.07635), [AIP](https://doi.org/10.1063/5.0216779)
-1. **Y. Susuki**, K. Eto, N. Hiramatsu, and A. Ishigame, Control of in-room temperature field via damping assignment to nonlinear Koopman mode, *IEEE Transactions on Control Systems Technology*, vol.32, no.5, pp.1569-1578, September 2024. [IEEE Xplorer](https://doi.org/10.1109/TCST.2023.3345149)
+1. **Y. Susuki**, K. Eto, N. Hiramatsu, and A. Ishigame, Control of in-room temperature field via damping assignment to nonlinear Koopman mode, *IEEE Transactions on Control Systems Technology*, vol.32, no.5, pp.1569-1578, September 2024. [IEEE](https://doi.org/10.1109/TCST.2023.3345149)
 1. S. Yumiki, **Y. Susuki**, Y. Oshikubo, Y. Ota, R. Masegi, A. Kawashima, A. Ishigame, S. Inagaki, and T. Suzuki, Autonomous vehicle-to-grid design for provision of frequency control ancillary service and distribution voltage regulation, *Sustainable Energy, Grids and Networks*, vol.30, article no.100664, June 2022. 
 [arXiv](https://arxiv.org/abs/2101.10518), [sciencedirect](https://doi.org/10.1016/j.segan.2022.100664)
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Characterizing scale dependence of effective diffusion driven by fluid flows, *Physical Review E*, vol.105, article no.045103, April 2022. 
@@ -268,10 +268,10 @@ This version of the paper slightly differs from the published version. Please se
 1. **Y. Susuki**, H. Ebina, and T. Hikihara, Application of hybrid system theory to power system stability analysis, *2005 International Symposium on Nonlinear Theory and its Applications* (NOLTA2005), pp.202-205, SEC@BRUGES, Belgium, October 18-21, 2005. 
 [KU](http://hdl.handle.net/2433/73435)
 1. **Y. Susuki**, Y. Takama, T. Funaki, and T. Hikihara, Evaluating performance of hybrid-type power system simulator based on transient stability analysis:  A dynamical system approach, *2005 IEEE International Symposium on Circuits and Systems* (ISCAS2005), pp.3894-3897, International Conference Center Kobe, Japan, May 23-26, 2005.
- [IEEE Xplorer](https://doi.org/10.1109/ISCAS.2005.1465481)
+ [IEEE](https://doi.org/10.1109/ISCAS.2005.1465481)
 1. **Y. Susuki**, T. Hikihara, and H.-D. Chiang, Transient stability and discontinuous solution in electric power system with dc transmission:  A study with DAE system, *2004 International Symposium on Nonlinear Theory and its Applications* (NOLTA2004), pp.423-426, ACROS Fukuoka, Japan, November 29-December 3, 2004.
 1. **Y. Susuki** and T. Hikihara, Stability boundaries analysis of non-autonomous systems with resonant solutions based on subharmonic Melnikov functions, *2004 American Control Conference* (ACC2004), pp.1743-1748, Boston Sheraton Hotel, United States, June 30-July 2, 2004. 
-[KU](http://hdl.handle.net/2433/49150), [IEEE Xplorer](https://doi.org/10.23919/ACC.2004.1386831)
+[KU](http://hdl.handle.net/2433/49150), [IEEE](https://doi.org/10.23919/ACC.2004.1386831)
 1. **Y. Susuki** and T. Hikihara, Swing phenomena and global structures of solution space in an electric power system with dc transmission, *Ninth workshop on Nonlinear Dynamics of Electronic Systems*, pp.133-136, Delft University of Technology, The Netherlands, June 21-23, 2001.
 
 ### Preprints
@@ -286,7 +286,7 @@ This version of the paper slightly differs from the published version. Please se
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (invited, to appear).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman linearization of an AC/DC converter, *11th IEEJ international workshop on Sensing, Actuation, Motion Control, and Optimization* (SAMCON2025), Matsue, Japan, March 21-23, 2025 (to appear).
-1. K. Matsumoto and **Y. Susuki**, Numerical analysis of instability in a power grid with multiple grid-forming inverters, *13th International Conference on Renewable Energy Research and Applications* (ICRERA), Nagasaki, Japan, November 2024. [IEEE Xplorer](https://doi.org/10.1109/ICRERA62673.2024.10815176)
+1. K. Matsumoto and **Y. Susuki**, Numerical analysis of instability in a power grid with multiple grid-forming inverters, *13th International Conference on Renewable Energy Research and Applications* (ICRERA), Nagasaki, Japan, November 2024. [IEEE](https://doi.org/10.1109/ICRERA62673.2024.10815176)
 1. **Y. Susuki**, Digital technologies for electrical energy systems and microgrid development, *2024 UC San Diego-Kyoto University\/KSAC Joint Research Symposium "The Future of Clean Energy Technology"*, San Diego, CA, USA, October 16-17, 2024 (**invited**). 
 1. Z. Zhang and **Y. Susuki**, Koopman analysis of weather dynamics using SCALE simulation data, *International Symposium on Weather Controllability*, Poster Session, Tokyo, Japan, October 6, 2024.
 1. **Y. Susuki**, Koopman operator techniques for power grid dynamic data, *8th Workshop on Dynamic Stability Challenges of the Future Power Grids* (DynPOWER2024), Aarau, Switzerland, September 9, 2024 (**invited**). [video](https://youtu.be/BUhU9-MdD4s?si=S1URL7a6Qvf9StWn), [slides](https://drive.google.com/file/d/1OS5HnPr5UawWkqHx_pZ6lphPPP76QI8T/view)
