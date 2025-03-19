@@ -29,7 +29,7 @@ title = 'Publication list'
 
 1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Applied Koopman mode decomposition for SCALE weather simulation: Dominate modes extraction and model reduction (in preparation)
-1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control* (conditonally accepted).
+1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control* (conditionally accepted).
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105)
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
 [arXiv](https://arxiv.org/abs/2305.07198), [Taylor & Francis](https://doi.org/10.1080/18824889.2024.2402103)
@@ -40,7 +40,7 @@ title = 'Publication list'
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Characterizing scale dependence of effective diffusion driven by fluid flows, *Physical Review E*, vol.105, article no.045103, April 2022. 
 [arXiv](https://arxiv.org/abs/2009.14104), [APS](https://doi.org/10.1103/PhysRevE.105.045103)
 1. K. Takamichi, **Y. Susuki**, M. Netto, and A. Ishigame, A mode-in-state contribution factor based on Koopman operator and its application to power system analysis, *Nonlinear Theory and Its Applications, IEICE*, vol.13, no.2, pp.409-414, April 2022. 
-[J-STAGE](https://doi.org/10.1587/nolta.13.409), [OPU](http://hdl.handle.net/10466/00017666), [arXiv](http://arxiv.org/abs/2205.10984)
+[J-STAGE](https://doi.org/10.1587/nolta.13.409), [OMU](http://hdl.handle.net/10466/00017666), [arXiv](http://arxiv.org/abs/2205.10984)
 1. H. Tadano, **Y. Susuki**, and A. Ishigame, Asymptotic assessment of distribution voltage profile using a nonlinear ODE model, *Nonlinear Theory and Its Applications, IEICE*, vol.13, no.1, pp.149-168, January 2022. 
 [J-STAGE](https://doi.org/10.1587/nolta.13.149), [arXiv](https://arxiv.org/abs/2101.09945)
 1. M. Netto, **Y. Susuki**, V. Krishnan, and Y. Zhang, On analytical construction of observable functions in extended dynamic mode decomposition for nonlinear estimation and prediction, *IEEE Control Systems Letters*, vol.5, no.6, pp.1868-1873, December 2021. 
@@ -52,7 +52,7 @@ title = 'Publication list'
 1. N. Kawamoto, **Y. Susuki**, and A. Ishigame, Estimation of stability region for an interconnected AC\/multi-terminal DC grid, *Nonlinear Theory and Its Applications, IEICE*, vol.11, no.4, pp.610-623, October 2020. 
 [J-STAGE](https://doi.org/10.1587/nolta.11.610)
 1. N. Hiramatsu, **Y. Susuki**, and A. Ishigame, Koopman mode decomposition of oscillatory temperature field inside a room, *Physical Review E*, vol.102, article no.022210, August 2020. 
-[arXiv](https://arxiv.org/abs/2008.12149), [APS](https://doi.org/10.1103/PhysRevE.102.022210), [OPU](http://hdl.handle.net/10466/00017032)
+[arXiv](https://arxiv.org/abs/2008.12149), [APS](https://doi.org/10.1103/PhysRevE.102.022210), [OMU](http://hdl.handle.net/10466/00017032)
 1. **Y. Susuki** and I. Mezic, Invariant sets in quasiperiodically forced dynamical systems, *SIAM Journal on Applied Dynamical Systems*, vol.19, no.1, pp.329-351, January 2020. 
 [arXiv](https://arxiv.org/abs/1808.08340), [SIAM](https://doi.org/10.1137/18M1193529)
 1. N. Mizuta, S. Kamo, H. Toda, **Y. Susuki**, Y. Ota, and A. Ishigame, A hardware-in-the-loop test of multi-objective ancillary service by in-vehicle batteries: Primary frequency control and distribution voltage support, *IEEE Access*, vol.7, no.1, pp.161246-161254, November 2019. 
@@ -68,7 +68,7 @@ title = 'Publication list'
 1. M. Netto, **Y. Susuki**, and L. Mili, Data-driven participation factors for nonlinear systems based on Koopman mode decomposition, *IEEE Control Systems Letters*, vol.3, issue 1, pp.198-203, January 2019. 
 [arXiv](https://arxiv.org/abs/1806.01344), [IEEE](https://doi.org/10.1109/LCSYS.2018.2871887)
 1. S. Kimura, **Y. Susuki**, and A. Ishigame, A reactive management system for reliable electricity supply in a building microgrid with vehicle-to-grid interaction, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E101-A, no.8, pp.1172-1184, August 2018. 
-[J-STAGE](https://doi.org/10.1587/transfun.E101.A.1172), [OPU](http://hdl.handle.net/10466/00016708)
+[J-STAGE](https://doi.org/10.1587/transfun.E101.A.1172), [OMU](http://hdl.handle.net/10466/00016708)
 1. F. Raak, **Y. Susuki**, K. Tsuboki, M. Kato, S. Eguchi, and T. Hikihara, Assessment of offshore wind farm characteristics with the cloud resolving storm simulator:  A case study in Japan, *Wind Energy*, vol.21, issue 7, pp.531-543, July 2018. 
 [Wiley](https://doi.org/10.1002/we.2176)
 1. Q. Wu, T.J. Koo, and **Y. Susuki**, Dynamic security analysis of power systems by a sampling-based algorithm, *ACM Transactions on Cyber-Physical Systems*, vol.2, issue 2, article no.10, June 2018. 
@@ -129,13 +129,13 @@ title = 'Publication list'
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
 [J-STAGE](https://doi.org/10.9746/sicetr.59.410)
 1. S. Kimura, **Y. Susuki**, and A. Ishigame, Availability design of power supply for a building microgrid with in-vehicle battery, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Japanese edition)*, vol.J103-A, no.12, pp.306-320, December 2020. 
-[J-STAGE](https://search.ieice.org/bin/summary.php?id=j103-a_12_306), [OPU](http://hdl.handle.net/10466/00017197)
+[J-STAGE](https://search.ieice.org/bin/summary.php?id=j103-a_12_306), [OMU](http://hdl.handle.net/10466/00017197)
 1. C. Wada, S. Takayama, **Y. Susuki**, A. Ishigame, K. Deguchi, K. Konishi, D. Ishizuka, and K. Tanaka, A multi-scale supply operation of grid-connected micro-grid, *IEEJ Transactions on Power and Energy*, vol.140, no.3, pp.166-175, March 2020. 
 [J-STAGE](https://doi.org/10.1541/ieejpes.140.166)
 1. H. Hoshino, **Y. Susuki**, T. John Koo, and T. Hikihara, Nonlinear control of combined heat and power plants in a two-site regional energy system, *Transactions of the Institute of Systems, Control and Information Engineers*, vol.30, no.5, pp.157-166, May 2017. 
 [J-STAGE](https://doi.org/10.5687/iscie.30.157)
 1. T. Saito, **Y. Susuki**, and T. Hikihara, Mode switching control for output leveling of in-home electric power system: Experiment and performance evaluation, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Japanese edition)*, vol.J100-A, no.5, pp.183-194, May 2017.
-[IEICE](https://search.ieice.org/bin/summary.php?id=j100-a_5_183&category=A&year=2017&lang=J&abst=), [OPU](http://hdl.handle.net/10466/15725)
+[IEICE](https://search.ieice.org/bin/summary.php?id=j100-a_5_183&category=A&year=2017&lang=J&abst=), [OMU](http://hdl.handle.net/10466/15725)
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Applications of Koopman mode decomposition to modeling of heat transfer dynamics in building atriums-II: Advection by large-scale air movement, *Transactions of the Society of Instrument and Control Engineers*, vol.53, no.2, pp.188-197, February 2017. 
 [J-STAGE](https://doi.org/10.9746/sicetr.53.188)
 1. Y. Kono, **Y. Susuki**, M. Hayashida, and T. Hikihara, Applications of Koopman mode decomposition to modeling of heat transfer dynamics in building atriums-I: Effective diffusion by small-scale air movement, *Transactions of the Society of Instrument and Control Engineers*, vol.53, no.2, pp.123-133, February 2017. 
