@@ -1,7 +1,7 @@
 # Publication list
 
 
-[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of publications](https://y-susuki.github.io/listofpapers_ver20240331.pdf)] (pdf file in Japanese)
+[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of publications](https://y-susuki.github.io/pdfs/listofpapers_ver20240331.pdf)] (pdf file in Japanese)
 
 ### Books
 
@@ -145,7 +145,6 @@
 [KU](http://hdl.handle.net/2433/66243), [J-STAGE](https://doi.org/10.5687/iscie.21.368)
 1. **Y. Susuki** and T. Hikihara, An analytical criterion for stability boundaries of non-autonomous systems based on Melnikov's method, *Transactions of the Institute of Systems, Control and Information Engineers*, vol.15, no.11, pp.586-592, November 2002. 
 [KU](http://hdl.handle.net/2433/48898), [J-STAGE](https://doi.org/10.5687/iscie.15.586)
-
 
 ### Refereed Conference Proceedings
 
@@ -292,7 +291,7 @@
 1. **Y. Susuki**, Koopman operator techniques for power grid dynamic data, *8th Workshop on Dynamic Stability Challenges of the Future Power Grids* (DynPOWER2024), Aarau, Switzerland, September 9, 2024 (**invited**). [video](https://youtu.be/BUhU9-MdD4s?si=S1URL7a6Qvf9StWn), [slides](https://drive.google.com/file/d/1OS5HnPr5UawWkqHx_pZ6lphPPP76QI8T/view)
 1. **Y. Susuki**, Koopman analysis of singular systems, *CMCC Conference on Koopman Operator Theory: Fundamentals, Approximations and Applications*, Otranto, Italy, May 20-21, 2024 (**invited**). [video](https://youtu.be/k07J6dg2Z6c?si=RkaiBp_4chT6e9MV)
 1. N. Katayama and **Y. Susuki**, On properties of Koopman eigenfunctions for a planar singularly-perturbed dynamical system, *10th International Congress on Industrial and Applied Mathematics* (ICIAM2023), Tokyo, Japan, August 20-25, 2023.
-1. **Y. Susuki**, Koopman operator techniques applied to data analytics in transmission systems, in Panel Session "Application of Big Data and AI\/ML in Monitoring, Operations, Planning, and Protection," *IEEE Power \& Energy Society General Meeting*, Orland, USA, July 16-20, 2023 (**invited**). [slides](./susuki_PESGM23_rev.pdf)
+1. **Y. Susuki**, Koopman operator techniques applied to data analytics in transmission systems, in Panel Session "Application of Big Data and AI\/ML in Monitoring, Operations, Planning, and Protection," *IEEE Power \& Energy Society General Meeting*, Orland, USA, July 16-20, 2023 (**invited**). [slides](https://y-susuki.github.io/pdfs/susuki_PESGM23_rev.pdf)
 1. **Y. Susuki**, Koopman-model predictive control with signal temporal logic specifications: Formulation and case study, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS23), May 14-18, 2023 (**invited**).
 1. M. Netto, **Y. Susuki**, V. Krishnan, and Y.-C. Zhang, On analytical construction of observable functions in extended dynamic mode decomposition for nonlinear estimation and prediction, /2022 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2022), virtual, December 12-15, 2022.
 1. K. Takamichi, **Y. Susuki**, M. Netto, and A. Ishigame, An application of Koopman operator-based participation factors to a planar self-oscillatory system, *2022 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2022), virtual, December 12-15, 2022.
