@@ -4,7 +4,7 @@ draft = false
 title = 'Publication list'
 +++
 
-[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of publications](https://y-susuki.github.io/pdfs/listofpapers_ver20240331.pdf)] (pdf file in Japanese)
+[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of publications](https://y-susuki.github.io/pdfs/listofpapers_ver20250322.pdf)] (pdf file in Japanese)
 
 ### Books
 
@@ -285,6 +285,7 @@ title = 'Publication list'
 
 ### International Conference Presentations
 
+1. **Y. Susuki** and T. Yoshimura, On dynamic mode decomposition for systems with differential-algebraic equation dynamics (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (invited, to appear).
