@@ -14,7 +14,7 @@ title = 'Publication list'
 
 ### Book (in Japanese)
 
-1. **Y. Susuki**, Koopman Analysis (submitted for possible publication).
+1. **Y. Susuki**, The Koopman Analysis (submitted for possible publication).
 
 ### Book Chapters
 
@@ -28,9 +28,11 @@ title = 'Publication list'
 ### Archival Journal Articles
 
 1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation)
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Applied Koopman mode decomposition for SCALE weather simulation: Dominate modes extraction and model reduction (in preparation)
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient modes from SCALE weather simulation with sparsity-promoting dynamic mode decomposition (in preparation)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control* (conditionally accepted).
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105)
+1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (submitted). 
+[arXiv](https://doi.org/)
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
 [arXiv](https://arxiv.org/abs/2305.07198), [Taylor & Francis](https://doi.org/10.1080/18824889.2024.2402103)
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *CHAOS: An Interdisciplinary Journal of Nonlinear Science*, vol.34, no.9, September 2024. [arXiv](https://doi.org/10.48550/arXiv.2405.07635), [AIP](https://doi.org/10.1063/5.0216779)
@@ -285,7 +287,7 @@ title = 'Publication list'
 
 ### International Conference Presentations
 
-1. **Y. Susuki** and T. Yoshimura, On dynamic mode decomposition for systems with differential-algebraic equation dynamics (in preparation).
+1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (invited, to appear).
