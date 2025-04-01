@@ -9,8 +9,10 @@ title = 'Publication list'
 ### Books
 
 1. **Y. Susuki**, I. Mezic, and M. Netto, Koopman Operator Techniques in Power System Dynamics and Stability: A Data-Centric Approach (in preparation).
-1. A. Mauroy, I. Mezic, and, **Y. Susuki** (Eds.), The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications (Springer Nature, February 2020). [Springer](https://www.springer.com/jp/book/9783030357122)
-1. T. Suzuki, S. Inagaki, **Y. Susuki**, and A.-T. Tran (Eds.), Design and Analysis of Distributed Energy Management Systems: Integration of EMS, EV, and ICT (Springer Nature, February 2020). [Springer](https://www.springer.com/gp/book/9783030336714)
+1. A. Mauroy, I. Mezic, and, **Y. Susuki** (Eds.), The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications (Springer Nature, February 2020). 
+[Springer](https://www.springer.com/jp/book/9783030357122)
+1. T. Suzuki, S. Inagaki, **Y. Susuki**, and A.-T. Tran (Eds.), Design and Analysis of Distributed Energy Management Systems: Integration of EMS, EV, and ICT (Springer Nature, February 2020). 
+[Springer](https://www.springer.com/gp/book/9783030336714)
 
 ### Book (in Japanese)
 
@@ -29,8 +31,8 @@ title = 'Publication list'
 
 1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient modes from SCALE weather simulation with sparsity-promoting dynamic mode decomposition (in preparation)
-1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (in preparation). 
-[arXiv](https://doi.org/)
+1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (submitted). 
+[arXiv](https://doi.org/10.48550/arXiv.2503.24104)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control* (conditionally accepted).
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105)
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
@@ -154,6 +156,7 @@ title = 'Publication list'
 
 ### Refereed Conference Proceedings
 
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, June 2025 (accepted). 
 [arXiv](https://doi.org/10.48550/arXiv.2411.04052)
 1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON2024), Chicago, USA, November 3-6, 2024. 
@@ -287,6 +290,8 @@ title = 'Publication list'
 
 ### International Conference Presentations
 
+1. N. Katayama, **Y. Susuki**, and A. Mauroy (in preparation).
+1. R. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
@@ -390,5 +395,3 @@ title = 'Publication list'
 1. Organizer of Special Session, *Nonlinear analysis and control of electric power systems*, International Symposium on Nonlinear Theory and its Applications (with Toru Namerikawa and T. John Koo) (2011).
 1. Organizer of Special Session, *Dynamical systems method for electrical energy infrastructure*, International Symposium on Nonlinear Theory and its Applications (with Igor Mezic and Takashi Hikihara) (2009).
 1. Organizer of Minisymposium, *Cascading dynamics and control in interconnected systems*, SIAM Conference on Applications of Dynamical Systems (with Yueheng Lan) (2009).
-
-
