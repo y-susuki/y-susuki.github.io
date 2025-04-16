@@ -289,7 +289,7 @@
 ### International Conference Presentations
 
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems (submitted).
-1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC conveter (submitted).
+1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter (submitted).
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
