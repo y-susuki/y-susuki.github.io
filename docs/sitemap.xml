@@ -2,11 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://y-susuki.github.io/launch/</loc><lastmod>2025-03-18T22:17:29&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://y-susuki.github.io/posts/</loc><lastmod>2025-03-18T22:17:29&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://y-susuki.github.io/test/</loc><lastmod>2025-03-17T22:36:53&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://y-susuki.github.io/about/</loc><lastmod>2025-03-17T22:31:25&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://y-susuki.github.io/pub/</loc><lastmod>2025-03-17T22:31:20&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://y-susuki.github.io/</loc><lastmod>2025-03-17T22:29:10&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>http://y-susuki.github.io/launch/</loc><lastmod>2025-03-18T22:17:29&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://y-susuki.github.io/posts/</loc><lastmod>2025-03-18T22:17:29&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://y-susuki.github.io/test/</loc><lastmod>2025-03-17T22:36:53&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://y-susuki.github.io/about/</loc><lastmod>2025-03-17T22:31:25&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://y-susuki.github.io/pub/</loc><lastmod>2025-03-17T22:31:20&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://y-susuki.github.io/</loc><lastmod>2025-03-17T22:29:10&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://y-susuki.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://y-susuki.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
