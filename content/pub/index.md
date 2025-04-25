@@ -20,7 +20,7 @@ title = 'Publication list'
 
 ### Book Chapters
 
-1. **Y. Susuki**, Koooman resolvents (in preparation).
+1. **Y. Susuki**, Koopman resolvents (in preparation).
 1. **Y. Susuki** and K. Sako, Data-driven voltage analysis of an electric power grid with delay-embedding and extended dynamic mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 19 (Springer Nature, 2020).
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Modeling of advective heat transfer in a practical building atrium via Koopman mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 18 (Springer Nature, 2020).
 1. A. Mauroy, **Y. Susuki**, and I. Mezic, Introduction to Koopman operator theory in systems and control, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 1 (Springer Nature, 2020).
