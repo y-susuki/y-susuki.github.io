@@ -29,7 +29,7 @@
 
 1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient modes from SCALE weather simulation with sparsity-promoting dynamic mode decomposition (in preparation)
-1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (in preparation). 
+1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (submitted). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control* (conditionally accepted).
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105)
@@ -154,6 +154,7 @@
 
 ### Refereed Conference Proceedings
 
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data (submitted).
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, June 2025 (accepted). 
 [arXiv](https://doi.org/10.48550/arXiv.2411.04052)
