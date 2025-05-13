@@ -154,7 +154,7 @@
 
 ### Refereed Conference Proceedings
 
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temparature fields (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data (submitted).
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, June 2025 (accepted). 
 [arXiv](https://doi.org/10.48550/arXiv.2411.04052)
@@ -294,7 +294,7 @@
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
-1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (invited, to appear).
+1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (**invited**). [slides](https://y-susuki.github.io/pdfs/susuki_SIAMDS25.pdf)
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman linearization of an AC/DC converter, *11th IEEJ international workshop on Sensing, Actuation, Motion Control, and Optimization* (SAMCON2025), Matsue, Japan, March 21-23, 2025.
 1. K. Matsumoto and **Y. Susuki**, Numerical analysis of instability in a power grid with multiple grid-forming inverters, *13th International Conference on Renewable Energy Research and Applications* (ICRERA), Nagasaki, Japan, November 2024. [IEEE](https://doi.org/10.1109/ICRERA62673.2024.10815176)
 1. **Y. Susuki**, Digital technologies for electrical energy systems and microgrid development, *2024 UC San Diego-Kyoto University\/KSAC Joint Research Symposium "The Future of Clean Energy Technology"*, San Diego, CA, USA, October 16-17, 2024 (**invited**). 
