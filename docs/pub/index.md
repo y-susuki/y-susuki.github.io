@@ -1,3 +1,5 @@
+# 
+
 # Publication list
 
 
@@ -394,4 +396,5 @@
 1. Organizer of Special Session, *Nonlinear analysis and control of electric power systems*, International Symposium on Nonlinear Theory and its Applications (with Toru Namerikawa and T. John Koo) (2011).
 1. Organizer of Special Session, *Dynamical systems method for electrical energy infrastructure*, International Symposium on Nonlinear Theory and its Applications (with Igor Mezic and Takashi Hikihara) (2009).
 1. Organizer of Minisymposium, *Cascading dynamics and control in interconnected systems*, SIAM Conference on Applications of Dynamical Systems (with Yueheng Lan) (2009).
+
 
