@@ -294,8 +294,8 @@
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems (submitted).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter (submitted).
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations (submitted).
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
-1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (to appear).
+1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (**invited**). [slides](https://y-susuki.github.io/pdfs/susuki_SIAMDS25.pdf)
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman linearization of an AC/DC converter, *11th IEEJ international workshop on Sensing, Actuation, Motion Control, and Optimization* (SAMCON2025), Matsue, Japan, March 21-23, 2025.
 1. K. Matsumoto and **Y. Susuki**, Numerical analysis of instability in a power grid with multiple grid-forming inverters, *13th International Conference on Renewable Energy Research and Applications* (ICRERA), Nagasaki, Japan, November 2024. [IEEE](https://doi.org/10.1109/ICRERA62673.2024.10815176)
@@ -371,7 +371,7 @@
 
 ### Organizers
 
-1. Organizer of Minisymposium, *Diverse Applications of the Koopman Operator Theory*, SIAM Conference on Applications of Dynamical Systems (with Ervin Kamenar and William T. Redman) (2025) (to appear).
+1. Organizer of Minisymposium, *Diverse Applications of the Koopman Operator Theory*, SIAM Conference on Applications of Dynamical Systems (with Ervin Kamenar and William T. Redman) (2025).
 1. Co-Chair of Forum, *State-of-the-art technology and future vision for environment, energy, and power systems*, IFAC World Congress (with Industry Subgroup on Power, Energy and Environmental Systems) (2023). 
 1. Organizer of Minisymposium, *Koopman operators in Dynamical Systems: Theory and Applications*, SIAM Conference on Applications of Dynamical Systems (with Allan Avila) (2023).
 1. General Secretary, 2022 International Symposium on Nonlinear Theory and Its Applications, Opatija, Croatia (December 2022). 

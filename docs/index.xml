@@ -7,6 +7,14 @@
             <webMaster>susuki@ieee.org (Yoshihiko Susuki)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 17 Mar 2025 22:29:10 &#43;0900</lastBuildDate>
             <atom:link href="http://y-susuki.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>SIAM DS meeting</title>
+    <link>http://y-susuki.github.io/ds25/</link>
+    <pubDate>Fri, 16 May 2025 08:42:08 -0700</pubDate>
+    <author>Yoshihiko Susuki</author>
+    <guid>http://y-susuki.github.io/ds25/</guid>
+    <description><![CDATA[<p>It was a amazing week! We attended SIAM DS'25 (&ldquo;Snowbird&rdquo; meeting) in Denver. Great talks are presented from my team. I met many colleagues in Koopman operators and dynamical systems. I really enjoyed the meeting!</p>]]></description>
+</item>
+<item>
     <title>New website</title>
     <link>http://y-susuki.github.io/launch/</link>
     <pubDate>Tue, 18 Mar 2025 22:17:29 &#43;0900</pubDate>
