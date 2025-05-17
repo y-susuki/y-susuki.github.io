@@ -154,9 +154,10 @@
 
 ### Refereed Conference Proceedings
 
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temparature fields (submitted).
+1. S. Mochiyama et al. (in preparation)
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data (submitted).
-1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, June 2025 (accepted). 
+1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, June 2025 (to appear). 
 [arXiv](https://doi.org/10.48550/arXiv.2411.04052)
 1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON2024), Chicago, USA, November 3-6, 2024. 
 [arXiv](https://doi.org/10.48550/arXiv.2410.08556)
