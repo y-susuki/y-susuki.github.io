@@ -13,6 +13,7 @@ title = ''
 
 ### Quotes
 
+- If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions. (Albert Einstein)
 - Together we must learn to live as brothers or together we will be forced to perish as fools. (Martin Luther King Jr, 1967)
 - Be present, pay attention. (Bill Rieflin, 2020)
 

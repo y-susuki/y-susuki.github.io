@@ -27,8 +27,9 @@
 
 ### Archival Journal Articles
 
-1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation)
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient modes from SCALE weather simulation with sparsity-promoting dynamic mode decomposition (in preparation)
+1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
+1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation).
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (in preparation).
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (submitted). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, November 2025 (accepted). 
@@ -154,7 +155,7 @@
 
 ### Refereed Conference Proceedings
 
-1. S. Mochiyama et al. (in preparation)
+1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data (submitted).
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, June 2025 (to appear). 
@@ -284,7 +285,8 @@
 
 ### Preprints
 
-1. A. Masuda, **Y. Susuki**, M. Martinez-Ramon, A. Mammoli, and A. Ishigame, Application of Gaussian process regression to Koopman mode decomposition for noisy dynamic data. [arXiv](https://arxiv.org/abs/1911.01143)
+1. A. Masuda, **Y. Susuki**, M. Martinez-Ramon, A. Mammoli, and A. Ishigame, Application of Gaussian process regression to Koopman mode decomposition for noisy dynamic data. 
+[arXiv](https://arxiv.org/abs/1911.01143)
 1. **Y. Susuki**, K. Sako, and T. Hikihara, On the spectral equivalence of Koopman operators through delay embedding. 
 [arXiv](https://arxiv.org/abs/1706.01006)
 
