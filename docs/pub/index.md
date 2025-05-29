@@ -34,8 +34,9 @@
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (in preparation).
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (submitted). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104)
-1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, November 2025 (accepted). 
-[arXiv](https://doi.org/10.48550/arXiv.2409.10105)
+1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, November 2025 (early access). 
+[arXiv](https://doi.org/10.48550/arXiv.2409.10105) 
+[IEEE](https://doi.org/10.1109/TAC.2025.3574309)
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
 [arXiv](https://arxiv.org/abs/2305.07198), [Taylor & Francis](https://doi.org/10.1080/18824889.2024.2402103)
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *CHAOS: An Interdisciplinary Journal of Nonlinear Science*, vol.34, no.9, September 2024. [arXiv](https://doi.org/10.48550/arXiv.2405.07635), [AIP](https://doi.org/10.1063/5.0216779)
