@@ -29,9 +29,10 @@
 
 ### Archival Journal Articles
 
+1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
 1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation).
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (in preparation).
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (in preparation).
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (submitted). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, November 2025 (early access). 
