@@ -159,7 +159,8 @@
 
 ### Refereed Conference Proceedings
 
-1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management (submitted).
+1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management (submitted). 
+[arXiv](https://doi.org/10.48550/arXiv.2506.23554)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 2025 (accepted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields, *2025 SICE Festival with Annual Conference* (SICE FES 2025), Chiang Mai, Thailand, September 9-12, 2025 (accepted).
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, pp.1949-1954, Thessaloniki, Greece, June 24-27 2025. 
