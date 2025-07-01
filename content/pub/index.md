@@ -1,6 +1,5 @@
 # Publication list
 
-
 [[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of publications](https://y-susuki.github.io/pdfs/listofpapers_ver20250322.pdf)] (pdf file in Japanese)
 
 ### Books
@@ -13,7 +12,7 @@
 
 ### Book (in Japanese)
 
-1. **Y. Susuki**, The Koopman Analysis -- Analysis and Control of Nonlinear Dynamics Using the Koopman Operatpr (published in August).
+1. **Y. Susuki**, The Koopman Analysis -- Analysis and Control of Nonlinear Dynamics Using the Koopman Operator (published in August!).
 
 ### Book Chapters
 
@@ -30,9 +29,9 @@
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
 1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation).
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (submitted). 
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
-1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (submitted). 
+1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (in revision). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, November 2025 (early access). 
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105), 
@@ -130,7 +129,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
-1. K. Matsumoto and **Y. Susuki**, Oscillatory mode analysis of a system of multiple grid-forming inverters using the proper orthogonal decomposition (under revision).
+1. K. Matsumoto and **Y. Susuki**, Oscillatory mode analysis of a system of multiple grid-forming inverters using the proper orthogonal decomposition (in revision).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
@@ -164,7 +163,7 @@
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, pp.1949-1954, Thessaloniki, Greece, June 24-27 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2411.04052)
 1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON2024), Chicago, USA, November 3-6, 2024. 
-[arXiv](https://doi.org/10.48550/arXiv.2410.08556)
+[arXiv](https://doi.org/10.48550/arXiv.2410.08556), [IEEE](https://doi.org/10.1109/IECON55916.2024.10905726)
 1. **Y. Susuki**, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, *European Control Conference*, pp.627-632, Stockholm, Sweden, June 2024. 
 [IEEE](https://doi.org/10.23919/ECC64448.2024.10590877)
 1. C. Kojima, Y. Muto, and **Y. Susuki**, Dissipativity of nonlinear ODE model of distribution voltage profile, *IFAC World Congress* (IFAC WC23), pp.7031-7036, Yokohama, Japan, July 9-14, 2023. 
@@ -295,9 +294,10 @@
 
 ### International Conference Presentations
 
-1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 2025 (accepted).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 2025 (accepted).
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 2025 (accepted).
+1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 2025 (accepted).
+1. **Y. Susuki**, Koopman operators for singular systems: Construction, spectral properties, and data-driven methods (submitted).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (**invited**). [slides](https://y-susuki.github.io/pdfs/susuki_SIAMDS25.pdf)
