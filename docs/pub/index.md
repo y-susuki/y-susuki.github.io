@@ -159,15 +159,15 @@
 
 ### Refereed Conference Proceedings
 
-1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management (submitted). 
+1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025 (accepted). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.23554)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 2025 (accepted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields, *2025 SICE Festival with Annual Conference* (SICE FES 2025), Chiang Mai, Thailand, September 9-12, 2025 (accepted).
-1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference*, pp.1949-1954, Thessaloniki, Greece, June 24-27 2025. 
+1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference* (ECC 2025), pp.1949-1954, Thessaloniki, Greece, June 24-27 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2411.04052)
-1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON2024), Chicago, USA, November 3-6, 2024. 
+1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2024), Chicago, USA, November 3-6, 2024. 
 [arXiv](https://doi.org/10.48550/arXiv.2410.08556), [IEEE](https://doi.org/10.1109/IECON55916.2024.10905726)
-1. **Y. Susuki**, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, *European Control Conference*, pp.627-632, Stockholm, Sweden, June 2024. 
+1. **Y. Susuki**, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, *European Control Conference* (ECC 2024), pp.627-632, Stockholm, Sweden, June 2024. 
 [IEEE](https://doi.org/10.23919/ECC64448.2024.10590877)
 1. C. Kojima, Y. Muto, and **Y. Susuki**, Dissipativity of nonlinear ODE model of distribution voltage profile, *IFAC World Congress* (IFAC WC23), pp.7031-7036, Yokohama, Japan, July 9-14, 2023. 
 [arXiv](https://doi.org/10.48550/arXiv.2212.10031), [IFAC](https:doi.org/10.1016/j.ifacol.2023.10.858)
