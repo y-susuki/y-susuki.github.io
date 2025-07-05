@@ -297,7 +297,7 @@
 
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
-1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 2025 (accepted).
+1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
 1. **Y. Susuki**, Koopman operators for singular systems: Construction, spectral properties, and data-driven methods (submitted).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
