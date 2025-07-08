@@ -14,7 +14,8 @@
 
 ### Book (in Japanese)
 
-1. **Y. Susuki**, The Koopman Analysis -- Analysis and Control of Nonlinear Dynamics Using the Koopman Operator (published in August!).
+1. **Y. Susuki**, The Koopman Analysis -- Analysis and Control of Nonlinear Dynamics Using the Koopman Operator (Morikita Publishing Co., Ltd., August 2025) (to appear). 
+[Publisher](https://www.morikita.co.jp/books/mid/009731), [amazon.co.jp](https://amzn.asia/d/7wOEcwQ)
 
 ### Book Chapters
 
