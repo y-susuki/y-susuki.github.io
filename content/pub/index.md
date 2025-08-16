@@ -1,6 +1,6 @@
 # Publication list
 
-[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of publications](https://stkyotouac-my.sharepoint.com/:w:/g/personal/susuki_yoshihiko_5c_ms_c_kyoto-u_ac_jp/ETXjVYAFNe9EtmTibAA35mABalHGJy45H3B24BOhHfJobw?e=KtZPei)] (sharepoint in Japanese)
+[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of all publications](https://stkyotouac-my.sharepoint.com/:w:/g/personal/susuki_yoshihiko_5c_ms_c_kyoto-u_ac_jp/ETXjVYAFNe9EtmTibAA35mABalHGJy45H3B24BOhHfJobw?e=KtZPei)] (sharepoint in Japanese)
 
 ### Books
 
@@ -32,7 +32,7 @@
 1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
-1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating (in revision). 
+1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE* (accepted). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, November 2025 (early access). 
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105), 
@@ -304,7 +304,7 @@
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (**invited**). [slides](https://y-susuki.github.io/pdfs/susuki_SIAMDS25.pdf)
-1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman linearization of an AC/DC converter, *11th IEEJ international workshop on Sensing, Actuation, Motion Control, and Optimization* (SAMCON2025), Matsue, Japan, March 21-23, 2025.
+1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman linearization of an AC/DC converter, *11th IEEJ International Workshop on Sensing, Actuation, Motion Control, and Optimization* (SAMCON2025), Matsue, Japan, March 21-23, 2025.
 1. K. Matsumoto and **Y. Susuki**, Numerical analysis of instability in a power grid with multiple grid-forming inverters, *13th International Conference on Renewable Energy Research and Applications* (ICRERA), Nagasaki, Japan, November 2024. [IEEE](https://doi.org/10.1109/ICRERA62673.2024.10815176)
 1. **Y. Susuki**, Digital technologies for electrical energy systems and microgrid development, *2024 UC San Diego-Kyoto University\/KSAC Joint Research Symposium "The Future of Clean Energy Technology"*, San Diego, CA, USA, October 16-17, 2024 (**invited**). 
 1. Z. Zhang and **Y. Susuki**, Koopman analysis of weather dynamics using SCALE simulation data, *International Symposium on Weather Controllability*, Poster Session, Tokyo, Japan, October 6, 2024.
