@@ -14,7 +14,7 @@
 
 ### Book (in Japanese)
 
-1. **Y. Susuki**, The Koopman Analysis -- Analysis and Control of Nonlinear Dynamics Using the Koopman Operator (Morikita Publishing Co., Ltd., August 2025) (to appear). 
+1. **Y. Susuki**, The Koopman Analysis -- Analysis and Control of Nonlinear Dynamics Using the Koopman Operator (Morikita Publishing Co., Ltd., August 2025). 
 [Publisher](https://www.morikita.co.jp/books/mid/009731), [amazon.co.jp](https://amzn.asia/d/7wOEcwQ)
 
 ### Book Chapters
@@ -31,7 +31,8 @@
 
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
-1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven methods (in preparation).
+1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven estimation (in preparation).
+1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (under review). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE* (accepted). 
@@ -93,27 +94,27 @@
 [arXiv](https://arxiv.org/abs/1906.08135), [ASME](https://doi.org/10.1115/1.4034491)
 1. F. Raak, **Y. Susuki**, and T. Hikihara, Data-driven partitioning of power networks via Koopman mode analysis, *IEEE Transactions on Power Systems*, vol.31, no.4, pp.2799-2808, July 2016. 
 [IEEE](https://doi.org/10.1109/TPWRS.2015.2464779)
-1.  Q. Wu, **Y. Susuki**, and T.J. Koo, RRT-based computation for dynamic security analysis of power systems, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E99-A, no.2, pp.491-501, February 2016. 
+1. Q. Wu, **Y. Susuki**, and T.J. Koo, RRT-based computation for dynamic security analysis of power systems, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E99-A, no.2, pp.491-501, February 2016. 
 [J-STAGE](https://doi.org/10.1587/transfun.E99.A.491)
-1.  T.N.M. Phan, J.C. Wells, **Y. Susuki**, L.V. Nguyen, J.S. Bonner, M.S. Islam, and W.D. Kirkey, Koopman modes in a near-bank region of a tidal river, *Journal of Japan Society of Civil Engineering, Ser. B1 (Hydraulic Engineering)*, vol.71, no.4, pp.I_205-I_210, February 2015. 
+1. T.N.M. Phan, J.C. Wells, **Y. Susuki**, L.V. Nguyen, J.S. Bonner, M.S. Islam, and W.D. Kirkey, Koopman modes in a near-bank region of a tidal river, *Journal of Japan Society of Civil Engineering, Ser. B1 (Hydraulic Engineering)*, vol.71, no.4, pp.I_205-I_210, February 2015. 
 [J-STAGE](https://doi.org/10.2208/jscejhe.71.I_205)
-1.  **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and power system stability assessment without models, *IEEE Transactions on Power Systems*, vol.29, no.2, pp.899-907, March 2014. 
+1. **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and power system stability assessment without models, *IEEE Transactions on Power Systems*, vol.29, no.2, pp.899-907, March 2014. 
 [IEEE](https://doi.org/10.1109/TPWRS.2013.2287235)
-1.  S. Miyatake, **Y. Susuki**, T. Hikihara, S. Itoh, and K. Tanaka, Discharge characteristics of multicell lithium-ion battery with nonuniform cells, *Journal of Power Sources*, vol.241, pp.736-743, November 2013. 
+1. S. Miyatake, **Y. Susuki**, T. Hikihara, S. Itoh, and K. Tanaka, Discharge characteristics of multicell lithium-ion battery with nonuniform cells, *Journal of Power Sources*, vol.241, pp.736-743, November 2013. 
 [KU](http://hdl.handle.net/2433/178796), [Elsevier](http://dx.doi.org/10.1016/j.jpowsour.2013.05.179)
-1.  **Y. Susuki**, R. Kazaoka, and T. Hikihara, Physical architecture and model-based evaluation of electric power system with multiple homes, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E96-A, no.8, pp.1703-1711, August 2013. 
+1. **Y. Susuki**, R. Kazaoka, and T. Hikihara, Physical architecture and model-based evaluation of electric power system with multiple homes, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E96-A, no.8, pp.1703-1711, August 2013. 
 [KU](http://hdl.handle.net/2433/178795), [J-STAGE](https://doi.org/10.1587/transfun.E96.A.1703)
-1.  Y. Yokoi and **Y. Susuki**, Energy conversion and phase regulation in transient states of frequency entrainment described by van der Pol and phase-locked loop equations, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E96-A, no.2, pp.591-599, February 2013. 
+1. Y. Yokoi and **Y. Susuki**, Energy conversion and phase regulation in transient states of frequency entrainment described by van der Pol and phase-locked loop equations, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, vol.E96-A, no.2, pp.591-599, February 2013. 
 [IEICE](https://doi.org/10.1587/transfun.E96.A.591)
-1.  **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and a precursor to power system swing instabilities, *IEEE Transactions on Power Systems*, vol.27, no.3, pp.1182-1191, August 2012. 
+1. **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and a precursor to power system swing instabilities, *IEEE Transactions on Power Systems*, vol.27, no.3, pp.1182-1191, August 2012. 
 [KU](http://hdl.handle.net/2433/178794), [IEEE](https://doi.org/10.1109/TPWRS.2012.2183625)
-1.  **Y. Susuki**, T. J. Koo, H. Ebina, T. Yamazaki, T. Ochi, T. Uemura, and T. Hikihara, A hybrid system approach to the analysis and design of power grid dynamic performance, *Proceedings of the IEEE*, vol.100, no.1, pp.225-239, January 2012. 
+1. **Y. Susuki**, T. J. Koo, H. Ebina, T. Yamazaki, T. Ochi, T. Uemura, and T. Hikihara, A hybrid system approach to the analysis and design of power grid dynamic performance, *Proceedings of the IEEE*, vol.100, no.1, pp.225-239, January 2012. 
 [KU](http://hdl.handle.net/2433/152055), [IEEE](https://doi.org/10.1109/JPROC.2011.2165329)
-1.  **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and coherency identification of coupled swing dynamics, *IEEE Transactions on Power Systems*, vol.26, no.4, pp.1894-1904, November 2011. 
+1. **Y. Susuki** and I. Mezic, Nonlinear Koopman modes and coherency identification of coupled swing dynamics, *IEEE Transactions on Power Systems*, vol.26, no.4, pp.1894-1904, November 2011. 
 [IEEE](https://doi.org/10.1109/TPWRS.2010.2103369) 
 (also, correction, this journal, vol.26, no.4, p.2584, November 2011. 
 [IEEE](https://doi.org/10.1109/TPWRS.2011.2165650)
-1.  Y. Takatsuji, **Y. Susuki**, and T. Hikihara, Hybrid controller for safe microgrid operation, *Nonlinear Theory and Its Applications, IEICE*, vol.2, no.3, pp.347-362, July 2011. 
+1. Y. Takatsuji, **Y. Susuki**, and T. Hikihara, Hybrid controller for safe microgrid operation, *Nonlinear Theory and Its Applications, IEICE*, vol.2, no.3, pp.347-362, July 2011. 
 [J-STAGE](https://doi.org/10.1587/nolta.2.347)
 1.  **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent swing instability of power grids, *Journal of Nonlinear Science*, vol.21, no.3, pp.403-439, June 2011. 
 [Springer](https://doi.org/10.1007/s00332-010-9087-5)
@@ -132,7 +133,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
-1. K. Matsumoto and **Y. Susuki**, Oscillatory mode analysis of a system of multiple grid-forming inverters using the proper orthogonal decomposition (in revision).
+1. K. Matsumoto and **Y. Susuki**, Oscillatory mode analysis of a system of multiple grid-forming inverters using the proper orthogonal decomposition (under review).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
@@ -302,7 +303,7 @@
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
-1. **Y. Susuki**, Koopman operators for singular systems: Construction, spectral properties, and data-driven methods (submitted).
+1. **Y. Susuki**, Koopman operators for singular systems: Construction, spectral properties, and data-driven methods, *Koopman Operator Theory: Fundamentals, Approximations and Applications 3*, Cres, Croatia, September 9-11, 2025 (**invited**).
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear dynamical systems in the Koopman operator framework, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025 (**invited**). [slides](https://y-susuki.github.io/pdfs/susuki_SIAMDS25.pdf)
