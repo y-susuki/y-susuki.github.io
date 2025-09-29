@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://y-susuki.github.io/kot2/</loc><lastmod>2025-09-14T10:01:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://y-susuki.github.io/posts/</loc><lastmod>2025-09-14T10:01:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://y-susuki.github.io/kot2/</loc><lastmod>2025-09-14T10:01:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
+            <loc>http://y-susuki.github.io/posts/</loc><lastmod>2025-09-14T10:01:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>http://y-susuki.github.io/ds25/</loc><lastmod>2025-05-16T08:42:08-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://y-susuki.github.io/launch/</loc><lastmod>2025-03-18T22:17:29&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://y-susuki.github.io/test/</loc><lastmod>2025-03-17T22:36:53&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
