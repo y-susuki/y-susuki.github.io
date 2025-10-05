@@ -17,7 +17,7 @@
 
 ### Book Chapters
 
-1. **Y. Susuki**, Koopman resolvents (in preparation).
+1. **Y. Susuki**, Koopman resolvents (submitted).
 1. **Y. Susuki** and K. Sako, Data-driven voltage analysis of an electric power grid with delay-embedding and extended dynamic mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 19 (Springer Nature, 2020).
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Modeling of advective heat transfer in a practical building atrium via Koopman mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 18 (Springer Nature, 2020).
 1. A. Mauroy, **Y. Susuki**, and I. Mezic, Introduction to Koopman operator theory in systems and control, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 1 (Springer Nature, 2020).
@@ -28,9 +28,9 @@
 ### Archival Journal Articles
 
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
-1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
-1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven estimation (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
+1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Koopman-model predictive control of an AC/DC converter (in preparation).
+1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven estimation (in preparation).
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (under review). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
@@ -385,7 +385,7 @@
 1. Organizer of Minisymposium, *Diverse Applications of the Koopman Operator Theory*, SIAM Conference on Applications of Dynamical Systems (with Ervin Kamenar and William T. Redman) (2025).
 1. Co-Chair of Forum, *State-of-the-art technology and future vision for environment, energy, and power systems*, IFAC World Congress (with Industry Subgroup on Power, Energy and Environmental Systems) (2023). 
 1. Organizer of Minisymposium, *Koopman operators in Dynamical Systems: Theory and Applications*, SIAM Conference on Applications of Dynamical Systems (with Allan Avila) (2023).
-1. General Secretary, 2022 International Symposium on Nonlinear Theory and Its Applications, Opatija, Croatia (December 2022). 
+1. General Secretary, 2022 International Symposium on Nonlinear Theory and Its Applications, online format (December 2022). 
 1. Organizer of Digital Workshop on Analysis and Operation of Future Hybrid AC\/DC Transmission Systems (in Eig-Concert Japan MODULATOR Project) (2021).
 [http](https://www.northwindresearch.no/2022/02/23/digital-workshop-on-analysis-and-operation-of-future-hybrid-ac-dc-transmission-systems/)
 1. Organizer of Pre-Conference Tutorial Workshop, *The Koopman operator in systems and control: Concepts, methodologies, and applications*, Third IFAC Conference on Modeling, Identification and Control of Nonlinear Systems (with Alexandre Mauroy and Igor Mezic) (2021).
