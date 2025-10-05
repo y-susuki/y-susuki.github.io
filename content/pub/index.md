@@ -160,6 +160,7 @@
 
 ### Refereed Conference Proceedings
 
+1. N. Katayama, **Y. Susuki** et al. (in preparation).
 1. **Y. Susuki** et al. (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
 1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025 (accepted). 
