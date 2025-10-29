@@ -14,12 +14,12 @@
 
 ### Book (in Japanese)
 
-1. **Y. Susuki**, The Koopman Analysis -- Analysis and Control of Nonlinear Dynamics Using the Koopman Operator (Morikita Publishing Co., Ltd., August 2025). 
+1. **Y. Susuki**, The Koopman Analysis: Analysis and Control of Nonlinear Dynamics Using the Koopman Operator (Morikita Publishing Co., Ltd., August 2025). 
 [Publisher](https://www.morikita.co.jp/books/mid/009731), [amazon.co.jp](https://amzn.asia/d/7wOEcwQ)
 
 ### Book Chapters
 
-1. **Y. Susuki**, Koopman resolvents (submitted).
+1. **Y. Susuki**, Koopman resolvents, in Operator Theory (Springer Nature, 202x) (submitted).
 1. **Y. Susuki** and K. Sako, Data-driven voltage analysis of an electric power grid with delay-embedding and extended dynamic mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 19 (Springer Nature, 2020).
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Modeling of advective heat transfer in a practical building atrium via Koopman mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 18 (Springer Nature, 2020).
 1. A. Mauroy, **Y. Susuki**, and I. Mezic, Introduction to Koopman operator theory in systems and control, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 1 (Springer Nature, 2020).
@@ -38,7 +38,7 @@
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE* (accepted). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104)
-1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, November 2025 (early access). 
+1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, vol.70, no.11, pp.7398-7413, November 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105), 
 [IEEE](https://doi.org/10.1109/TAC.2025.3574309)
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
@@ -134,7 +134,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
-1. K. Matsumoto and **Y. Susuki**, Oscillatory mode analysis of a system of multiple grid-forming inverters using the proper orthogonal decomposition (under review).
+1. K. Matsumoto and **Y. Susuki**, Oscillatory mode analysis of a system of multiple grid-forming inverters using the proper orthogonal decomposition (in preparation).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
@@ -164,8 +164,8 @@
 
 1. N. Katayama, **Y. Susuki** et al. (in preparation).
 1. **Y. Susuki** et al. (in preparation).
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (accepted).
-1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025 (accepted). 
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025.
+1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2506.23554)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields, *2025 SICE Festival with Annual Conference* (SICE FES 2025), pp.657-662, Chiang Mai, Thailand, September 9-12, 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2507.05711)
@@ -303,9 +303,9 @@
 
 ### International Conference Presentations
 
-1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (to appear).
-1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (to appear).
-1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025 (to appear).
+1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025.
+1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025.
+1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025.
 1. **Y. Susuki**, Koopman operators for singular systems: Construction, spectral properties, and data-driven methods, *Koopman Operator Theory: Fundamentals, Approximations and Applications 2*, Cres, Croatia, September 9-11, 2025 (**invited**). [html](https://uniri.hr/en/science-and-research/koopman-operator-theory-fundamentals-approximations-and-applications/), [video](https://youtu.be/nl_4fwnCR48?feature=shared)
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman analysis of large-scale transient simulation data on weather systems, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS25), Denver, USA, May 2025.
