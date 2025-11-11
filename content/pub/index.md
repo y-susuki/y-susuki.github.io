@@ -34,8 +34,8 @@
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (under review). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
-1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE* (accepted). 
-[arXiv](https://doi.org/10.48550/arXiv.2503.24104)
+1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE*, January 2026 (to appear). 
+[arXiv](https://doi.org/10.48550/arXiv.2503.24104), [IEICE]
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, vol.70, no.11, pp.7398-7413, November 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105), 
 [IEEE](https://doi.org/10.1109/TAC.2025.3574309)
@@ -160,8 +160,8 @@
 
 ### Refereed Conference Proceedings
 
-1. N. Katayama, **Y. Susuki** et al. (in preparation).
-1. **Y. Susuki** et al. (in preparation).
+1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator (submitted).
+1. **Y. Susuki**, N, Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025.
 1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2506.23554)
