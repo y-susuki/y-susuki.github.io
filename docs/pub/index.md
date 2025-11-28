@@ -39,8 +39,7 @@
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE*, January 2026 (to appear). 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104), [IEICE]()
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, vol.70, no.11, pp.7398-7413, November 2025. 
-[arXiv](https://doi.org/10.48550/arXiv.2409.10105), 
-[IEEE](https://doi.org/10.1109/TAC.2025.3574309)
+[arXiv](https://doi.org/10.48550/arXiv.2409.10105), [IEEE](https://doi.org/10.1109/TAC.2025.3574309)
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
 [arXiv](https://arxiv.org/abs/2305.07198), [Taylor & Francis](https://doi.org/10.1080/18824889.2024.2402103)
 1. N. Katayama and **Y. Susuki**, Koopman analysis of the singularly perturbed van der Pol oscillator, *CHAOS: An Interdisciplinary Journal of Nonlinear Science*, vol.34, no.9, September 2024. [arXiv](https://doi.org/10.48550/arXiv.2405.07635), [AIP](https://doi.org/10.1063/5.0216779)
@@ -385,7 +384,8 @@
 
 ### Organizers
 
-1. Member of Scientific Committee, Koopman Operator Theory: Fundamentals, Approximations and Applications 3, Cres, Croatia (September 2025).
+1. Committee chair, Koopman Operator Theory: Fundamentals, Approximations and Applications 3, Kyoto, Japan (December 2026).
+1. Member of Scientific Committee, Koopman Operator Theory: Fundamentals, Approximations and Applications 2, Cres, Croatia (September 2025).
 1. Organizer of Minisymposium, *Diverse Applications of the Koopman Operator Theory*, SIAM Conference on Applications of Dynamical Systems (with Ervin Kamenar and William T. Redman) (2025).
 1. Co-Chair of Forum, *State-of-the-art technology and future vision for environment, energy, and power systems*, IFAC World Congress (with Industry Subgroup on Power, Energy and Environmental Systems) (2023). 
 1. Organizer of Minisymposium, *Koopman operators in Dynamical Systems: Theory and Applications*, SIAM Conference on Applications of Dynamical Systems (with Allan Avila) (2023).
