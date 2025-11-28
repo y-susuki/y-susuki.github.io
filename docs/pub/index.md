@@ -37,7 +37,7 @@
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE*, January 2026 (to appear). 
-[arXiv](https://doi.org/10.48550/arXiv.2503.24104), [IEICE]
+[arXiv](https://doi.org/10.48550/arXiv.2503.24104), [IEICE]()
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, vol.70, no.11, pp.7398-7413, November 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105), 
 [IEEE](https://doi.org/10.1109/TAC.2025.3574309)
@@ -164,11 +164,12 @@
 
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator (submitted).
 1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems (submitted).
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025.
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025. 
+[IEICE]()
 1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025. 
-[arXiv](https://doi.org/10.48550/arXiv.2506.23554)
+[arXiv](https://doi.org/10.48550/arXiv.2506.23554), [IEEE]()
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields, *2025 SICE Festival with Annual Conference* (SICE FES 2025), pp.657-662, Chiang Mai, Thailand, September 9-12, 2025. 
-[arXiv](https://doi.org/10.48550/arXiv.2507.05711)
+[arXiv](https://doi.org/10.48550/arXiv.2507.05711), [IEEE](https://doi.org/10.23919/SICEFES67750.2025.11236703)
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference* (ECC 2025), pp.1949-1954, Thessaloniki, Greece, June 24-27 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2411.04052)
 1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2024), Chicago, USA, November 3-6, 2024. 
