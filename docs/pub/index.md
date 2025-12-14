@@ -19,7 +19,7 @@
 
 ### Book Chapters
 
-1. **Y. Susuki**, Koopman resolvents, in Operator Theory (Springer Nature, 202x) (submitted).
+1. **Y. Susuki**, Koopman resolvents, in [Operator Theory](https://doi.org/10.1007/978-3-0348-0667-1) (Springer Nature, 2026) (to appear).
 1. **Y. Susuki** and K. Sako, Data-driven voltage analysis of an electric power grid with delay-embedding and extended dynamic mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 19 (Springer Nature, 2020).
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Modeling of advective heat transfer in a practical building atrium via Koopman mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 18 (Springer Nature, 2020).
 1. A. Mauroy, **Y. Susuki**, and I. Mezic, Introduction to Koopman operator theory in systems and control, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 1 (Springer Nature, 2020).
@@ -29,6 +29,7 @@
 
 ### Archival Journal Articles
 
+1. Y. Miwa, **Y. Susuki** et al. (in preparation).
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Koopman-model predictive control of an AC/DC converter (in preparation).
@@ -161,8 +162,8 @@
 
 ### Refereed Conference Proceedings
 
-1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator (submitted).
-1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems (submitted).
+1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator (under review).
+1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems (under review).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025. 
 [IEICE]()
 1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025. 
