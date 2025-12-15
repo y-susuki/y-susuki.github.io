@@ -385,7 +385,8 @@
 
 ### Organizers
 
-1. Committee chair, Koopman Operator Theory: Fundamentals, Approximations and Applications 3, Kyoto, Japan (December 2026).
+1. Tutorial Sessions Co-Chair, European Control Conference, Brussels, Belgium (July 2027).
+1. Committee chair, Koopman Operator Theory: Fundamentals, Approximations and Applications 3, Kyoto, Japan (with Alexandre Mauroy) (December 2026).
 1. Member of Scientific Committee, Koopman Operator Theory: Fundamentals, Approximations and Applications 2, Cres, Croatia (September 2025).
 1. Organizer of Minisymposium, *Diverse Applications of the Koopman Operator Theory*, SIAM Conference on Applications of Dynamical Systems (with Ervin Kamenar and William T. Redman) (2025).
 1. Co-Chair of Forum, *State-of-the-art technology and future vision for environment, energy, and power systems*, IFAC World Congress (with Industry Subgroup on Power, Energy and Environmental Systems) (2023). 
