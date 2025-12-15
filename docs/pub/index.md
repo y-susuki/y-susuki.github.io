@@ -385,15 +385,14 @@
 
 ### Organizers
 
-1. Tutorial Sessions Co-Chair, European Control Conference, Brussels, Belgium (July 2027).
-1. Committee chair, Koopman Operator Theory: Fundamentals, Approximations and Applications 3, Kyoto, Japan (with Alexandre Mauroy) (December 2026).
-1. Member of Scientific Committee, Koopman Operator Theory: Fundamentals, Approximations and Applications 2, Cres, Croatia (September 2025).
+1. Tutorial Sessions Co-Chair, [European Control Conference](https://ecc27.euca-ecc.org/), Brussels, Belgium (July 2027).
+1. Committee chair, [Koopman Operator Theory: Fundamentals, Approximations and Applications 3](https://www-lab23.kuee.kyoto-u.ac.jp/en/index.php?kot3), Kyoto, Japan (with Alexandre Mauroy) (December 2026).
+1. Member of Scientific Committee, [Koopman Operator Theory: Fundamentals, Approximations and Applications 2](https://uniri.hr/en/science-and-research/koopman-operator-theory-fundamentals-approximations-and-applications/), Cres, Croatia (September 2025).
 1. Organizer of Minisymposium, *Diverse Applications of the Koopman Operator Theory*, SIAM Conference on Applications of Dynamical Systems (with Ervin Kamenar and William T. Redman) (2025).
 1. Co-Chair of Forum, *State-of-the-art technology and future vision for environment, energy, and power systems*, IFAC World Congress (with Industry Subgroup on Power, Energy and Environmental Systems) (2023). 
 1. Organizer of Minisymposium, *Koopman operators in Dynamical Systems: Theory and Applications*, SIAM Conference on Applications of Dynamical Systems (with Allan Avila) (2023).
 1. General Secretary, 2022 International Symposium on Nonlinear Theory and Its Applications, online format (December 2022). 
-1. Organizer of Digital Workshop on Analysis and Operation of Future Hybrid AC\/DC Transmission Systems (in Eig-Concert Japan MODULATOR Project) (2021).
-[http](https://www.northwindresearch.no/2022/02/23/digital-workshop-on-analysis-and-operation-of-future-hybrid-ac-dc-transmission-systems/)
+1. Organizer of [Digital Workshop on Analysis and Operation of Future Hybrid AC\/DC Transmission Systems](https://www.northwindresearch.no/2022/02/23/digital-workshop-on-analysis-and-operation-of-future-hybrid-ac-dc-transmission-systems/)) (in Eig-Concert Japan MODULATOR Project) (2021).
 1. Organizer of Pre-Conference Tutorial Workshop, *The Koopman operator in systems and control: Concepts, methodologies, and applications*, Third IFAC Conference on Modeling, Identification and Control of Nonlinear Systems (with Alexandre Mauroy and Igor Mezic) (2021).
 1. Organizer of Workshop, *Sharing systems for energy and mobility: Overview and emergent topics*, SICE Annual Conference 2021 (with Yutaka Ota) (2021).
 1. Organizer of Minisymposium, *Koopman operator in dynamical systems: Applications*, SIAM Conference on Applications of Dynamical Systems (with Enoch Yeung) (2021).
