@@ -37,8 +37,8 @@
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (in revision). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
-1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE*, January 2026 (to appear). 
-[arXiv](https://doi.org/10.48550/arXiv.2503.24104), [IEICE]()
+1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE*, vol.17, iss.1, pp.331-356, January 2026. 
+[arXiv](https://doi.org/10.48550/arXiv.2503.24104), [IEICE](https://doi.org/10.1587/nolta.17.331)
 1. K. Takamichi, **Y. Susuki**, and M. Netto, Participation factors for nonlinear autonomous dynamical systems in the Koopman operator framework, *IEEE Transactions on Automatic Control*, vol.70, no.11, pp.7398-7413, November 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2409.10105), [IEEE](https://doi.org/10.1109/TAC.2025.3574309)
 1. H. Hoshino, T. J. Koo, Y.-C. Chu, and **Y. Susuki**, Model predictive control of smart districts participating in frequency regulation market: A case study of using heating network storage, *SICE Journal of Control, Measurement, and System Integration*, vol.17, no.1, pp.365-377, September 2024. 
@@ -364,7 +364,6 @@
 1. Y. Yokoi, **Y. Susuki**, and T. Hikihara, Energy-based analysis of mutual entrainment in vibro-exciters on oscillatory base, *8th World Congress on Computational Mechanics and 5th European Congress on Computational Methods in Applied Sciences and Engineering* (WCCM8 & ECCOMAS 2008), Venice, Italy, June 30-July 5, 2008.
 1. **Y. Susuki**, I. Mezic, and T. Hikihara, Global instabilities of power grid coupled pendula-like models, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS07), Snowbird, USA, May 28-June 1, 2007 (**invited**).
 1. **Y. Susuki** and T. Hikihara, Application of hybrid system theory to power system voltage stability analysis, *9th International Workshop on Hybrid Systems:  Computation and Control* (HSCC2006), Santa Barbara, USA, March 29-31, 2006.
-
 
 ### Talks (in English)
 
