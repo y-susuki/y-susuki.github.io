@@ -21,6 +21,6 @@ title = ''
 
 > If you wish to pursue a Master's or PhD degree in Kyoto University under my supervision, you should first apply to the [Admissions Assistance Office of Kyoto University](https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/graduate-degree-programs/how-to-apply/for-graduates-of-overseas-universities). Please check its website. **Please note that I will not reply to individual applications due to my busy schedule.**
 
-### Personal Interests
+### Personal interests
 
-- Home cappuccino, Pikmin Bloom, 
+- Home cappuccino; Waking w/ Pikmin Bloom; Finding good Japanese sake 
