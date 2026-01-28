@@ -23,4 +23,4 @@ title = ''
 
 ### Personal interests
 
-- Home cappuccino; Waking w/ Pikmin Bloom; Finding good Japanese sake 
+- Home cappuccino; Waking w/ Pikmin Bloom; Discovering Japanese sake in Shiga Prefecture

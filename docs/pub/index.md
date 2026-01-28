@@ -32,8 +32,8 @@
 1. Y. Miwa, **Y. Susuki** et al. (in preparation).
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
-1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Koopman-model predictive control of an AC/DC converter (in preparation).
-1. **Y. Susuki** et al., Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven estimation (in preparation).
+1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and data-driven estimation (in preparation).
+1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Experimental realization of Koopman-model predictive control for an AC/DC converter (submitted).
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (in revision). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (under review). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
