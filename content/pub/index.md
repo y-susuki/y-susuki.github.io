@@ -27,7 +27,7 @@
 
 ### Archival Journal Articles
 
-1. Y. Miwa, **Y. Susuki** et al. (in preparation).
+1. Y. Miwa, **Y. Susuki**, and S. Kotsuki (in preparation).
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
@@ -160,7 +160,7 @@
 
 1. K. Matsumoto and **Y. Susuki** (in preparation).
 1. A. Fujimoti and **Y. Susuki** (in preparation).
-1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Experimental realization of Koopman-model predictive control for an AC/DC converter (submitted).
+1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Experimental realization of Koopman-model predictive control for an AC/DC converter (submitted). [arXiv](https://doi.org/10.48550/arXiv.2602.08303)
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator (submitted).
 1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems (submitted).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025. 
@@ -303,6 +303,7 @@
 
 ### International Conference Presentations
 
+1. **Y. Susuki**, Koopman operators for singular systems: Construction, spectral properties, and data-driven methods, 5th Symposium on Machine Learning and Dynamical Systems (MLDS 5) & Differential Equations for Data Science (DEDS 2026), Kyoto, February 9-13, 2026. [html](https://sites.google.com/view/mlds-deds-2026)
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, An experimental study on Koopman-model predictive control of an AC/DC converter, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025.
 1. **Y. Susuki** and T. Yoshimura, Theory and numerics of Koopman operator framework for semi-explicit differential-algebraic equations, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025.
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, A study on spectral properties of parameterized Koopman operators for discrete-time nonlinear systems, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), Okinawa, Japan, October 27-31, 2025.
