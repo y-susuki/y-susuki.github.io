@@ -17,7 +17,7 @@
 
 ### Book Chapters
 
-1. **Y. Susuki**, Koopman resolvents, in [Operator Theory](https://doi.org/10.1007/978-3-0348-0667-1) (Springer Nature, 2026) (to appear).
+1. **Y. Susuki**, Koopman resolvents, in [Operator Theory](https://doi.org/10.1007/978-3-0348-0667-1) (Springer Nature, 2026). [Springer](https://doi.org/10.1007/978-3-0348-0692-3_123-1)
 1. **Y. Susuki** and K. Sako, Data-driven voltage analysis of an electric power grid with delay-embedding and extended dynamic mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 19 (Springer Nature, 2020).
 1. Y. Kono, **Y. Susuki**, and T. Hikihara, Modeling of advective heat transfer in a practical building atrium via Koopman mode decomposition, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 18 (Springer Nature, 2020).
 1. A. Mauroy, **Y. Susuki**, and I. Mezic, Introduction to Koopman operator theory in systems and control, in The Koopman Operator in Systems and Control: Concepts, Methodologies, and Applications, Chapter 1 (Springer Nature, 2020).
@@ -27,9 +27,9 @@
 
 ### Archival Journal Articles
 
-1. Y. Miwa, **Y. Susuki**, and S. Kotsuki (in preparation).
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
+1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (in preparation).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (in revision). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (in revision). 
