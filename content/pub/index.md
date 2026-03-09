@@ -160,7 +160,7 @@
 
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Experimental realization of Koopman-model predictive control for an AC/DC converter (submitted). [arXiv](https://doi.org/10.48550/arXiv.2602.08303)
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator, *2026 European Control Conference* (accepted). [arXiv]()
-1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems, *2026 European Control Conference* (accepted). [arXiv]()
+1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems, *2026 European Control Conference* (accepted). [arXiv](https://doi.org/10.48550/arXiv.2603.05771)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025. 
 [IEICE]()
 1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, A bidirectional power router for traceable multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2025), Madrid, Spain, October 14-17, 2025. 
