@@ -23,6 +23,7 @@
 - PRESTO Researcher, Japan Science and Technology Agency, October 2019-March 2023
 - Associate Professor, Graduate School of Engineering, Kyoto University, April 2022-December 2024
 - Professor, Graduate School of Engineering, Kyoto University, January 2025-present
+- Vice-Chair, Department of Electrical, Electronic, and Digital Science and Engineering, Graduate School of Engineering, Kyoto University, April 2026-March 2027
 
 ### Awards
 - Best Poster Award, 15th World Wind Energy Conference and Exhibition (WWEC2016 TOKYO) (w/ Fredrik Raak, Kazuhisa Tsuboki, Masaya Kato, Shinya Eguchi, and Takashi Hikihara)
