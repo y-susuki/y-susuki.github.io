@@ -32,9 +32,9 @@
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
-1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (submitted). [arXiv]()
+1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (in preparation)
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (submitted). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
-1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition (submitted). 
+1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition, *Nonlinear Theory and Its Applications* (accepted). 
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083)
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE*, vol.17, iss.1, pp.331-356, January 2026. 
 [arXiv](https://doi.org/10.48550/arXiv.2503.24104), [IEICE](https://doi.org/10.1587/nolta.17.331)
@@ -161,7 +161,7 @@
 ### Refereed Conference Proceedings
 
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Experimental realization of Koopman-model predictive control for an AC/DC converter (submitted). [arXiv](https://doi.org/10.48550/arXiv.2602.08303)
-1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator, *2026 European Control Conference* (accepted). [arXiv]()
+1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator, *2026 European Control Conference* (accepted). [arXiv](https://doi.org/10.48550/arXiv.2604.04711)
 1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems, *2026 European Control Conference* (accepted). [arXiv](https://doi.org/10.48550/arXiv.2603.05771)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025. 
 [IEICE]()
