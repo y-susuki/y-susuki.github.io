@@ -29,6 +29,7 @@
 
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
+1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
 1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (in preparation)
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (submitted). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
@@ -168,7 +169,7 @@
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Sparsity-promoting dynamic mode decomposition applied to sea surface temperature fields, *2025 SICE Festival with Annual Conference* (SICE FES 2025), pp.657-662, Chiang Mai, Thailand, September 9-12, 2025. 
 [arXiv](https://doi.org/10.48550/arXiv.2507.05711), [IEEE](https://doi.org/10.23919/SICEFES67750.2025.11236703)
 1. N. Katayama and **Y. Susuki**, Koopman operators for global analysis of hybrid limit-cycling systems: Construction and spectral properties, *European Control Conference* (ECC 2025), pp.1949-1954, Thessaloniki, Greece, June 24-27 2025. 
-[arXiv](https://doi.org/10.48550/arXiv.2411.04052)
+[arXiv](https://doi.org/10.48550/arXiv.2411.04052), [IEEE](https://doi.org/10.23919/ECC65951.2025.11187204)
 1. S. Mochiyama, R. Takahashi, **Y. Susuki**, T. Wakabayashi, T. Tanaka, T. Momose, and H. Yamaguchi, A system of bidirectional power routing toward multi-energy management, *Annual Conference of the IEEE Industrial Electronics Society* (IECON 2024), Chicago, USA, November 3-6, 2024. 
 [arXiv](https://doi.org/10.48550/arXiv.2410.08556), [IEEE](https://doi.org/10.1109/IECON55916.2024.10905726)
 1. **Y. Susuki**, A. Mauroy, and Z. Drmac, Koopman resolvents of nonlinear discrete-time systems: Formulation and identification, *European Control Conference* (ECC 2024), pp.627-632, Stockholm, Sweden, June 2024. 
