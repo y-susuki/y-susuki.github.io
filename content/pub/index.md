@@ -132,6 +132,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
+1. K. Matsumoto and **Y. Susuki** (in preparation).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
@@ -363,6 +364,11 @@
 1. Y. Yokoi, **Y. Susuki**, and T. Hikihara, Energy-based analysis of mutual entrainment in vibro-exciters on oscillatory base, *8th World Congress on Computational Mechanics and 5th European Congress on Computational Methods in Applied Sciences and Engineering* (WCCM8 & ECCOMAS 2008), Venice, Italy, June 30-July 5, 2008.
 1. **Y. Susuki**, I. Mezic, and T. Hikihara, Global instabilities of power grid coupled pendula-like models, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS07), Snowbird, USA, May 28-June 1, 2007 (**invited**).
 1. **Y. Susuki** and T. Hikihara, Application of hybrid system theory to power system voltage stability analysis, *9th International Workshop on Hybrid Systems:  Computation and Control* (HSCC2006), Santa Barbara, USA, March 29-31, 2006.
+
+### Techanical Reports etc.
+
+1. Towards Low-Inertia Power Systems: An Overview of Monitoring Technology, Challenges and Emerging Solutions, February 2026. [SSRN](https://doi.org/10.2139/ssrn.6174715)
+1. Data-Driven Methods for Secure Low-Inertia Grids, IEEE PES Technical Report PES-TR140, January 2026. [IEEE PES Resource Center](https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_140_amps_040826)
 
 ### Talks (in English)
 
