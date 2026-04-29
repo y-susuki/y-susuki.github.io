@@ -25,6 +25,10 @@
 1. **Y. Susuki**, I. Mezic, and T. Hikihara, Coherent swing instability of interconnected power grids and a mechanism of cascading failure, in Control and Optimization Methods for Electric Smart Grids, pp.185-202 (Springer, 2012).
 1. I.M. Mitchell and **Y. Susuki**, Level set methods for computing reachable sets of hybrid systems with differential algebraic equation dynamics, in Hybrid Systems: Computation and Control, pp.630-633 (Springer-Verlag, 2008).
 
+### Thesis
+
+1. Y. Susuki, Transient Dynamics and Stability Boundaries of Electric Power System with DC Transmission, PhD Dissertation, Graduate School of Engineering, Kyoto University, March 2005. [KURENAI](https://doi.org/10.14989/doctor.k11525)
+
 ### Archival Journal Articles
 
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
@@ -365,7 +369,7 @@
 1. **Y. Susuki**, I. Mezic, and T. Hikihara, Global instabilities of power grid coupled pendula-like models, *SIAM Conference on Applications of Dynamical Systems* (SIAM DS07), Snowbird, USA, May 28-June 1, 2007 (**invited**).
 1. **Y. Susuki** and T. Hikihara, Application of hybrid system theory to power system voltage stability analysis, *9th International Workshop on Hybrid Systems:  Computation and Control* (HSCC2006), Santa Barbara, USA, March 29-31, 2006.
 
-### Techanical Reports etc.
+### Technical Reports etc.
 
 1. Towards Low-Inertia Power Systems: An Overview of Monitoring Technology, Challenges and Emerging Solutions, February 2026. [SSRN](https://doi.org/10.2139/ssrn.6174715)
 1. Data-Driven Methods for Secure Low-Inertia Grids, IEEE PES Technical Report PES-TR140, January 2026. [IEEE PES Resource Center](https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_140_amps_040826)
