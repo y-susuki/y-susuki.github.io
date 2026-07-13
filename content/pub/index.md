@@ -1,6 +1,6 @@
 # Publication list
 
-[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of all publications](https://stkyotouac-my.sharepoint.com/:w:/g/personal/susuki_yoshihiko_5c_ms_c_kyoto-u_ac_jp/ETXjVYAFNe9EtmTibAA35mABalHGJy45H3B24BOhHfJobw?e=KtZPei)] (sharepoint in Japanese)
+[[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of all publications](https://stkyotouac-my.sharepoint.com/:w:/g/personal/susuki_yoshihiko_5c_ms_c_kyoto-u_ac_jp/IQA141WABTXvRLZk4mwAN-ZgAQmCX_Fwe5hXuzncaVdsNBc?e=eQ0Gvv)] (sharepoint in Japanese)
 
 ### Books
 
