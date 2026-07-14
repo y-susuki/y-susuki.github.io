@@ -138,7 +138,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
-1. K. Matsumoto and **Y. Susuki**, Swing analysis of a power system with multiple grid-forming inverters (in preparation).
+1. K. Matsumoto and **Y. Susuki**, Swing analyses of a power system with multiple grid-forming inverters (in preparation).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
