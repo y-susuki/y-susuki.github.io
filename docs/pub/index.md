@@ -138,7 +138,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
-1. K. Matsumoto and **Y. Susuki**, Swing analyses of a power system with multiple grid-forming inverters (in preparation).
+1. K. Matsumoto and **Y. Susuki**, Swing analysis of a power system with multiple grid-forming inverters (in preparation).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
@@ -165,7 +165,6 @@
 [KU](http://hdl.handle.net/2433/48898), [J-STAGE](https://doi.org/10.5687/iscie.15.586)
 
 ### Refereed Conference Proceedings
-
 
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator, *Proceeding of 2026 European Control Conference*, Reykjavik, Iceland, July 7-10, 2026. [arXiv](https://doi.org/10.48550/arXiv.2604.04711)
 1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems, *Proceedings of 2026 European Control Conference*, Reykjavik, Iceland, July 7-10, 2026. [arXiv](https://doi.org/10.48550/arXiv.2603.05771)
