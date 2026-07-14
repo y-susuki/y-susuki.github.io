@@ -4,7 +4,7 @@ draft = false
 title = 'About me'
 +++
 
-- Name: Yoshihiko Susuki
+- Name: Yoshihiko SUSUKI
 - Birth: December 31, 1977
 - Nationality: Japan
 
