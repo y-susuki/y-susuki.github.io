@@ -37,7 +37,7 @@
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
-1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (submitted). [arXiv]
+1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (submitted). [arXiv](https://doi.org/10.48550/arXiv.2607.26632)
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (in preparation). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition, *Nonlinear Theory and Its Applications, IEICE*, vol.17, no.3, pp.1333-1361, July 2026.
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083), [IEICE](https://doi.org/10.1587/nolta.17.1333)
