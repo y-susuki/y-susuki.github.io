@@ -33,6 +33,7 @@
 
 ### Archival Journal Articles
 
+1. S. Mochiyama, R. Takahashi, and **Y. Susuki** (in preparation).
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
 1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
