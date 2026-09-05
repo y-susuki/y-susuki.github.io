@@ -1,6 +1,6 @@
 # 
 
-# Publication list
+　# Publication list
 
 [[researchmap](https://researchmap.jp/read0093083/?lang=ja)] [[list of all publications](https://stkyotouac-my.sharepoint.com/:w:/g/personal/susuki_yoshihiko_5c_ms_c_kyoto-u_ac_jp/IQA141WABTXvRLZk4mwAN-ZgAQmCX_Fwe5hXuzncaVdsNBc?e=eQ0Gvv)] (sharepoint in Japanese)
 
@@ -33,10 +33,11 @@
 
 ### Archival Journal Articles
 
-1. S. Mochiyama, R. Takahashi, and **Y. Susuki** (in preparation).
+1. N. Katayama, A. Mauroy, and **Y. Susuki** (in preparation).
+1. S. Mochiyama, R. Takahashi, and **Y. Susuki** (submitted).
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
-1. S. Hirose, S. Mochiyama, and **Y. Susuki** (in preparation).
+1. S. Hirose, S. Mochiyama, and **Y. Susuki** (submitted).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
 1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (submitted). [arXiv](https://doi.org/10.48550/arXiv.2607.26632)
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (in preparation). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
@@ -139,7 +140,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
-1. K. Matsumoto and **Y. Susuki**, Swing analysis of a power system with multiple grid-forming inverters (in preparation).
+1. K. Matsumoto and **Y. Susuki**, Swing analysis of a power system with multiple grid-forming inverters (submitted).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
@@ -168,7 +169,7 @@
 ### Refereed Conference Proceedings
 
 1. N. Katayama, A. Mauroy, and **Y. Susuki**, Global linearization of parameterized nonlinear systems with stable equilibrium point using the Koopman operator, *Proceeding of 2026 European Control Conference*, Reykjavik, Iceland, July 7-10, 2026. [arXiv](https://doi.org/10.48550/arXiv.2604.04711)
-1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koooman resolvents and frequency response of nonlinear systems, *Proceedings of 2026 European Control Conference*, Reykjavik, Iceland, July 7-10, 2026. [arXiv](https://doi.org/10.48550/arXiv.2603.05771)
+1. **Y. Susuki**, N. Katayama, A. Mauroy, and I. Mezic, On Koopman resolvents and frequency response of nonlinear systems, *Proceedings of 2026 European Control Conference*, Reykjavik, Iceland, July 7-10, 2026. [arXiv](https://doi.org/10.48550/arXiv.2603.05771)
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Experimental realization of Koopman-model predictive control for an AC/DC converter, *2026 IEEE International Symposium on Industrial Electronics*, Nagoya, Japan, June 23-26, 2026. [arXiv](https://doi.org/10.48550/arXiv.2602.08303)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Koopman mode decomposition of transient weather dynamics: A case study on short-term humidity ratio data, *2025 International Symposium on Nonlinear Theory and its Applications* (NOLTA 2025), pp.39-42, Okinawa, Japan, October 27-31, 2025. 
 [IEICE]()
