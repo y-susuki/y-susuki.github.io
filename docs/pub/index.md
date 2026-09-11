@@ -34,13 +34,13 @@
 ### Archival Journal Articles
 
 1. N. Katayama, A. Mauroy, and **Y. Susuki** (in preparation).
-1. S. Mochiyama, R. Takahashi, and **Y. Susuki** (submitted).
 1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
-1. S. Hirose, S. Mochiyama, and **Y. Susuki** (submitted).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
-1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (submitted). [arXiv](https://doi.org/10.48550/arXiv.2607.26632)
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (in preparation). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
+1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Formal synthesis for robust Koopman-model predictive control: A case study in AC/DC power conversion (in revision). [arXiv]
+1. S. Mochiyama, R. Takahashi, and **Y. Susuki**, e-Traceroute: Physically traceable electricity routing for carbin-free energy utilization (in revision). [arXiv]
+1. Y. Miwa, **Y. Susuki**, and S. Kotsuki, An extended Perron-Frobenius operator filter for nonlinear state estimation (in revision). [arXiv](https://doi.org/10.48550/arXiv.2607.26632)
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki, Extracting transient Koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition, *Nonlinear Theory and Its Applications, IEICE*, vol.17, no.3, pp.1333-1361, July 2026.
 [arXiv](https://doi.org/10.48550/arXiv.2506.14083), [IEICE](https://doi.org/10.1587/nolta.17.1333)
 1. C. Kojima, Y. Muto, H. Akutsu, R. Shima, and **Y. Susuki**, Application of battery storage to switching predictive control of power distribution systems including road heating, *Nonlinear Theory and Its Applications, IEICE*, vol.17, iss.1, pp.331-356, January 2026. 
@@ -140,7 +140,7 @@
 
 ### Archival Journal Articles (in Japanese)
 
-1. K. Matsumoto and **Y. Susuki**, Swing analysis of a power system with multiple grid-forming inverters (submitted).
+1. K. Matsumoto and **Y. Susuki**, Swing analysis of a power system with multiple grid-forming inverters (in revision).
 1. Y. Muto, C. Kojima, and **Y. Susuki**, Switching predictive control of power distribution system including road heating, *Transactions of the Society of Instrument and Control Engineers*, vol.60, no.6, pp.384-396, June 2024. 
 [J-STAGE](https://doi.org/10.9746/sicetr.60.384)
 1. T. Watanabe, Y. Wasa, **Y. Susuki**, K. Hirata, and K. Tanaka, Dynamic optimization and environmental impact assessment of energy and mobility systems considering charge effects, *Transactions of the Society of Instrument and Control Engineers*, vol.59, no.9, pp.410-417, September 2023. 
