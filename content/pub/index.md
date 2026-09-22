@@ -32,8 +32,8 @@
 ### Archival Journal Articles
 
 1. N. Katayama, A. Mauroy, and **Y. Susuki** (in preparation).
-1. J. Liu, Z. Zhang, and **Y. Susuki** (in preparation).
 1. Z. Zhang, **Y. Susuki**, and A. Okazaki (in preparation).
+1. J. Liu, Z. Zhang, and **Y. Susuki**, Learning dynamic security regions of power systems with Koopman mode decomposition (in preparation).
 1. **Y. Susuki**, T. Yoshimura, and N. Katayama, Koopman operator framework for systems described by semi-explicit differential-algebraic equations: Construction, spectral properties, and numerical estimation (in preparation).
 1. B.G. Odunlami, M. Netto, and **Y. Susuki**, Hybrid dymamical systems modeling of power systems (in preparation). [arXiv](https://doi.org/10.48550/arXiv.2509.02822)
 1. S. Hirose, S. Mochiyama, and **Y. Susuki**, Formal synthesis of robust Koopman-model predictive control: A case study in AC/DC power conversion (under review). [arXiv](https://doi.org/10.48550/arXiv.2609.15197)
